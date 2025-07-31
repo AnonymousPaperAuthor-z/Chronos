@@ -1,0 +1,1012 @@
+{
+    "8": {
+        "ax6000 next-gen wi-fi router": {
+            "sample": [
+                {
+                    "version": "1.3.2 build 20230906",
+                    "lmt": "2023-07-31",
+                    "lmt_dict": {
+                        "2023-07-31 03-15-11": [
+                            "https://1.64.166.215/webpages/locale/en_US/lan.css?t=ea3f7fe8",
+                            "https://1.64.166.215/webpages/index.html?t=ea3f7fe8",
+                            "https://1.64.166.215/webpages/js/app/url.js?t=ea3f7fe8",
+                            "https://1.64.166.215/webpages/config/modules.json?t=ea3f7fe8",
+                            "https://1.64.166.215/webpages/js/libs/base64.js?t=ea3f7fe8",
+                            "https://1.64.166.215/webpages/index.html",
+                            "https://1.64.166.215/webpages/themes/default/css/perfect-scrollbar.css?t=ea3f7fe8",
+                            "https://1.64.166.215/webpages/locale/en_US/help.js?_=1714058785381",
+                            "https://1.64.166.215/webpages/js/libs/jquery.min.js?t=ea3f7fe8",
+                            "https://1.64.166.215/webpages/js/libs/jquery.min.js?t=ea3f7fe8",
+                            "https://1.64.166.215/webpages/locale/en_US/lan.js?_=1714058785380",
+                            "https://1.64.166.215/webpages/locale/en_US/help.js?_=1714058786896",
+                            "https://1.64.166.215/webpages/js/su/frame.js?t=ea3f7fe8",
+                            "https://1.64.166.215/webpages/themes/default/css/base.css?t=ea3f7fe8",
+                            "https://1.64.166.215/webpages/js/app/url.js?t=ea3f7fe8",
+                            "https://1.64.166.215/webpages/js/su/char.js?t=ea3f7fe8",
+                            "https://1.64.166.215/webpages/js/libs/cryptoJS.min.js?t=ea3f7fe8",
+                            "https://1.64.166.215/webpages/js/libs/tpEncrypt.js?t=ea3f7fe8",
+                            "https://1.64.166.215/webpages/themes/default/css/perfect-scrollbar.css?t=ea3f7fe8",
+                            "https://1.64.166.215/webpages/locale/en_US/lan.css?t=ea3f7fe8",
+                            "https://1.64.166.215/webpages/locale/language.js?_=1714058786897",
+                            "https://1.64.166.215/webpages/locale/en_US/lan.js?_=1714058786895",
+                            "https://1.64.166.215/webpages/js/libs/base64.js?t=ea3f7fe8",
+                            "https://1.64.166.215/webpages/js/libs/cryptoJS.min.js?t=ea3f7fe8",
+                            "https://1.64.166.215/webpages/js/libs/encrypt.js?t=ea3f7fe8",
+                            "https://1.64.166.215/webpages/js/su/char.js?t=ea3f7fe8",
+                            "https://1.64.166.215/webpages/config/src.js?t=ea3f7fe8",
+                            "https://1.64.166.215/webpages/js/libs/jquery.backgroundSize.js?t=ea3f7fe8",
+                            "https://1.64.166.215/webpages/locale/language.js?_=1714058785382",
+                            "https://1.64.166.215/webpages/js/su/language.js?t=ea3f7fe8",
+                            "https://1.64.166.215/webpages/config/device.json?t=ea3f7fe8",
+                            "https://1.64.166.215/webpages/js/libs/jquery.backgroundSize.js?t=ea3f7fe8",
+                            "https://1.64.166.215/webpages/js/libs/tpEncrypt.js?t=ea3f7fe8",
+                            "https://1.64.166.215/webpages/config/models.json?t=ea3f7fe8",
+                            "https://1.64.166.215/webpages/js/libs/encrypt.js?t=ea3f7fe8",
+                            "https://1.64.166.215/webpages/js/su/language.js?t=ea3f7fe8",
+                            "https://1.64.166.215/webpages/js/su/frame.js?t=ea3f7fe8",
+                            "https://1.64.166.215/webpages/themes/default/css/base.css?t=ea3f7fe8"
+                        ]
+                    },
+                    "index": "tplink_https@1",
+                    "label_flag": "model",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2023-09-06": [
+                    {
+                        "model": "ax6000 next-gen wi-fi router",
+                        "version": "1.3.2 build 20230906"
+                    }
+                ]
+            }
+        }
+    },
+    "9": {
+        "ax11000 mu-mimo tri-band gaming router": {
+            "sample": [
+                {
+                    "version": "2.1.6 build 20230907",
+                    "lmt": "2023-08-17",
+                    "lmt_dict": {
+                        "2023-08-17 08-50-54": [
+                            "https://60.50.171.238/webpages/js/libs/jquery.backgroundSize.js?t=98f26a2d",
+                            "https://60.50.171.238/webpages/index.html?t=98f26a2d",
+                            "https://60.50.171.238/webpages/themes/gaming/css/base.css?t=98f26a2d",
+                            "https://60.50.171.238/webpages/themes/gaming/img/bg/bg.png?t=98f26a2d",
+                            "https://60.50.171.238/webpages/config/modules.json?t=98f26a2d",
+                            "https://60.50.171.238/webpages/config/device.json?t=98f26a2d",
+                            "https://60.50.171.238/webpages/themes/gaming/img/bg/bg.png?t=98f26a2d",
+                            "https://60.50.171.238/webpages/config/src.js?t=98f26a2d",
+                            "https://60.50.171.238/webpages/index.html",
+                            "https://60.50.171.238/webpages/themes/gaming/css/base.css?t=98f26a2d",
+                            "https://60.50.171.238/webpages/js/libs/jquery.min.js?t=98f26a2d",
+                            "https://60.50.171.238/webpages/js/libs/encrypt.js?t=98f26a2d",
+                            "https://60.50.171.238/webpages/js/su/char.js?t=98f26a2d",
+                            "https://60.50.171.238/webpages/js/su/language.js?t=98f26a2d",
+                            "https://60.50.171.238/webpages/js/su/frame.js?t=98f26a2d",
+                            "https://60.50.171.238/webpages/locale/language.js?_=1714058780863",
+                            "https://60.50.171.238/webpages/js/libs/base64.js?t=98f26a2d",
+                            "https://60.50.171.238/webpages/js/libs/cryptoJS.min.js?t=98f26a2d",
+                            "https://60.50.171.238/webpages/js/su/char.js?t=98f26a2d",
+                            "https://60.50.171.238/webpages/js/su/language.js?t=98f26a2d",
+                            "https://60.50.171.238/webpages/themes/gaming/css/perfect-scrollbar.css?t=98f26a2d",
+                            "https://60.50.171.238/webpages/js/libs/encrypt.js?t=98f26a2d",
+                            "https://60.50.171.238/webpages/locale/en_US/lan.js?_=1714058782762",
+                            "https://60.50.171.238/webpages/locale/en_US/help.js?_=1714058782763",
+                            "https://60.50.171.238/webpages/js/libs/tpEncrypt.js?t=98f26a2d",
+                            "https://60.50.171.238/webpages/locale/en_US/lan.css?t=98f26a2d",
+                            "https://60.50.171.238/webpages/themes/gaming/css/perfect-scrollbar.css?t=98f26a2d",
+                            "https://60.50.171.238/webpages/locale/en_US/help.js?_=1714058780862",
+                            "https://60.50.171.238/webpages/js/su/frame.js?t=98f26a2d",
+                            "https://60.50.171.238/webpages/locale/en_US/lan.css?t=98f26a2d",
+                            "https://60.50.171.238/webpages/js/libs/jquery.min.js?t=98f26a2d",
+                            "https://60.50.171.238/webpages/themes/gaming/css/total.css?t=98f26a2d",
+                            "https://60.50.171.238/webpages/js/libs/tpEncrypt.js?t=98f26a2d",
+                            "https://60.50.171.238/webpages/config/models.json?t=98f26a2d",
+                            "https://60.50.171.238/webpages/js/app/url.js?t=98f26a2d",
+                            "https://60.50.171.238/webpages/js/libs/base64.js?t=98f26a2d",
+                            "https://60.50.171.238/webpages/js/libs/cryptoJS.min.js?t=98f26a2d",
+                            "https://60.50.171.238/webpages/locale/en_US/lan.js?_=1714058780861",
+                            "https://60.50.171.238/webpages/js/libs/jquery.backgroundSize.js?t=98f26a2d",
+                            "https://60.50.171.238/webpages/js/app/url.js?t=98f26a2d",
+                            "https://60.50.171.238/webpages/locale/language.js?_=1714058782764"
+                        ]
+                    },
+                    "index": "tplink_https@7",
+                    "label_flag": "model",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2023-09-06": [
+                    {
+                        "model": "ax11000 mu-mimo tri-band gaming router",
+                        "version": "1.3.4 build 20230906"
+                    }
+                ],
+                "2023-09-07": [
+                    {
+                        "model": "ax11000 mu-mimo tri-band gaming router",
+                        "version": "2.1.6 build 20230907"
+                    }
+                ]
+            }
+        },
+        "ax1500 gigabit wi-fi 6 router": {
+            "sample": [
+                {
+                    "version": "1.1.21 build 20231127",
+                    "lmt": "2023-11-27",
+                    "lmt_dict": {
+                        "2023-11-27 11-03-24": [
+                            "https://5.13.226.52/webpages/js/su/language.js?t=715b0013",
+                            "https://5.13.226.52/webpages/js/libs/jquery.min.js?t=715b0013",
+                            "https://5.13.226.52/webpages/js/libs/html2canvas.min.js?t=715b0013",
+                            "https://5.13.226.52/webpages/js/libs/encrypt.js?t=715b0013",
+                            "https://5.13.226.52/webpages/js/libs/cryptoJS.min.js?t=715b0013",
+                            "https://5.13.226.52/webpages/js/su/char.js?t=715b0013",
+                            "https://5.13.226.52/webpages/js/libs/base64.js?t=715b0013",
+                            "https://5.13.226.52/webpages/js/libs/tpEncrypt.js?t=715b0013",
+                            "https://5.13.226.52/webpages/js/libs/polyfill.js?t=715b0013",
+                            "https://5.13.226.52/webpages/js/app/url.js?t=715b0013",
+                            "https://5.13.226.52/webpages/error.html?t=715b0013",
+                            "https://5.13.226.52/webpages/themes/default/img/logo/favicon.ico?t=715b0013"
+                        ]
+                    },
+                    "index": "url_finder_4@1",
+                    "label_flag": "model",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2023-08-09": [
+                    {
+                        "model": "ax1500 gigabit wi-fi 6 router",
+                        "version": "1.1.25 build 20230809"
+                    }
+                ],
+                "2023-11-27": [
+                    {
+                        "model": "ax1500 gigabit wi-fi 6 router",
+                        "version": "1.1.21 build 20231127"
+                    }
+                ]
+            }
+        },
+        "ax1500 wi-fi 6 router": {
+            "sample": [
+                {
+                    "version": "1.3.4 Build 20230220",
+                    "lmt": "2022-08-15",
+                    "lmt_dict": {
+                        "2022-08-15 18-51-27": [
+                            "https://136.143.144.100:8443/webpages/themes/default/css/total.css?t=9cfe5630",
+                            "https://136.143.144.100:8443/webpages/error.html?t=9cfe5630",
+                            "https://136.143.144.100:8443/webpages/themes/default/css/base.css?t=9cfe5630",
+                            "https://136.143.144.100:8443/webpages/themes/default/css/perfect-scrollbar.css?t=9cfe5630",
+                            "https://136.143.144.100:8443/webpages/themes/default/css/base.css?t=9cfe5630",
+                            "https://136.143.144.100:8443/webpages/js/libs/cryptoJS.min.js?t=9cfe5630",
+                            "https://136.143.144.100:8443/webpages/js/libs/tpEncrypt.js?t=9cfe5630",
+                            "https://136.143.144.100:8443/webpages/js/su/char.js?t=9cfe5630",
+                            "https://136.143.144.100:8443/webpages/index.html",
+                            "https://136.143.144.100:8443/webpages/js/app/url.js?t=9cfe5630",
+                            "https://136.143.144.100:8443/webpages/js/su/language.js?t=9cfe5630",
+                            "https://136.143.144.100:8443/webpages/js/su/frame.js?t=9cfe5630",
+                            "https://136.143.144.100:8443/webpages/themes/widget.css?t=9cfe5630",
+                            "https://136.143.144.100:8443/webpages/themes/default/img/spriteImages/png/sprite.total.png?t=9cfe5630"
+                        ]
+                    },
+                    "index": "tplink_https@tplink_https_1",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2022-04-01": [
+                    {
+                        "model": "ax1500 wi-fi 6 router",
+                        "version": "1.3.1 build 20220401"
+                    }
+                ],
+                "2023-02-20": [
+                    {
+                        "model": "ax1500 wi-fi 6 router",
+                        "version": "1.3.4 build 20230220"
+                    }
+                ],
+                "2023-07-28": [
+                    {
+                        "model": "ax1500 wi-fi 6 router",
+                        "version": "1.3.9 build 20230728"
+                    }
+                ]
+            }
+        },
+        "ax1800 wi-fi 6 router": {
+            "sample": [
+                {
+                    "version": "1.3.8 build 20230830",
+                    "lmt": "2022-03-01",
+                    "lmt_dict": {
+                        "2022-03-01 13-18-09": [
+                            "https://220.246.87.196/webpages/js/su/language.js?t=3ee24947",
+                            "https://220.246.87.196/webpages/locale/en_US/help.js?_=1714058783912",
+                            "https://220.246.87.196/webpages/js/libs/jquery.min.js?t=3ee24947",
+                            "https://220.246.87.196/webpages/locale/en_US/help.js?_=1714058781082",
+                            "https://220.246.87.196/webpages/locale/language.js?_=1714058781083",
+                            "https://220.246.87.196/webpages/themes/default/css/perfect-scrollbar.css?t=3ee24947",
+                            "https://220.246.87.196/webpages/js/libs/jquery.backgroundSize.js?t=3ee24947",
+                            "https://220.246.87.196/webpages/locale/en_US/lan.js?_=1714058783911",
+                            "https://220.246.87.196/webpages/config/models.json?t=3ee24947",
+                            "https://220.246.87.196/webpages/js/libs/jquery.backgroundSize.js?t=3ee24947",
+                            "https://220.246.87.196/webpages/js/libs/base64.js?t=3ee24947",
+                            "https://220.246.87.196/webpages/js/libs/cryptoJS.min.js?t=3ee24947",
+                            "https://220.246.87.196/webpages/js/su/language.js?t=3ee24947",
+                            "https://220.246.87.196/webpages/js/libs/cryptoJS.min.js?t=3ee24947",
+                            "https://220.246.87.196/webpages/config/modules.json?t=3ee24947",
+                            "https://220.246.87.196/webpages/themes/default/css/total.css?t=3ee24947",
+                            "https://220.246.87.196/webpages/themes/default/css/perfect-scrollbar.css?t=3ee24947",
+                            "https://220.246.87.196/webpages/js/app/url.js?t=3ee24947",
+                            "https://220.246.87.196/webpages/js/libs/tpEncrypt.js?t=3ee24947",
+                            "https://220.246.87.196/webpages/js/libs/tpEncrypt.js?t=3ee24947",
+                            "https://220.246.87.196/webpages/js/su/frame.js?t=3ee24947",
+                            "https://220.246.87.196/webpages/locale/en_US/lan.css?t=3ee24947",
+                            "https://220.246.87.196/webpages/index.html?t=3ee24947",
+                            "https://220.246.87.196/webpages/js/su/char.js?t=3ee24947",
+                            "https://220.246.87.196/webpages/js/libs/encrypt.js?t=3ee24947",
+                            "https://220.246.87.196/webpages/js/libs/base64.js?t=3ee24947",
+                            "https://220.246.87.196/webpages/js/libs/encrypt.js?t=3ee24947",
+                            "https://220.246.87.196/webpages/config/device.json?t=3ee24947",
+                            "https://220.246.87.196/webpages/locale/language.js?_=1714058783913",
+                            "https://220.246.87.196/webpages/js/su/frame.js?t=3ee24947",
+                            "https://220.246.87.196/webpages/config/device.json?t=3ee24947",
+                            "https://220.246.87.196/webpages/index.html",
+                            "https://220.246.87.196/webpages/js/su/char.js?t=3ee24947",
+                            "https://220.246.87.196/webpages/themes/default/css/base.css?t=3ee24947",
+                            "https://220.246.87.196/webpages/js/app/url.js?t=3ee24947",
+                            "https://220.246.87.196/webpages/config/src.js?t=3ee24947",
+                            "https://220.246.87.196/webpages/themes/default/css/base.css?t=3ee24947",
+                            "https://220.246.87.196/webpages/locale/en_US/lan.js?_=1714058781081",
+                            "https://220.246.87.196/webpages/js/libs/jquery.min.js?t=3ee24947",
+                            "https://220.246.87.196/webpages/locale/en_US/lan.css?t=3ee24947"
+                        ]
+                    },
+                    "index": "tplink_https@3",
+                    "label_flag": "model",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2021-12-31": [
+                    {
+                        "model": "ax1800 wi-fi 6 router",
+                        "version": "2.1.5 build 20211231"
+                    }
+                ],
+                "2023-02-19": [
+                    {
+                        "model": "ax1800 wi-fi 6 router",
+                        "version": "1.1.4 build 20230219"
+                    }
+                ],
+                "2023-07-25": [
+                    {
+                        "model": "ax1800 wi-fi 6 router",
+                        "version": "1.1.0 build 20230725"
+                    }
+                ],
+                "2023-08-29": [
+                    {
+                        "model": "ax1800 wi-fi 6 router",
+                        "version": "2.1.7 build 20230829"
+                    },
+                    {
+                        "model": "ax1800 wi-fi 6 router",
+                        "version": "2.1.8 build 20230829"
+                    }
+                ],
+                "2023-08-30": [
+                    {
+                        "model": "ax1800 wi-fi 6 router",
+                        "version": "1.3.8 build 20230830"
+                    }
+                ]
+            }
+        },
+        "ax3000 4-stream wi-fi 6 router": {
+            "sample": [
+                {
+                    "version": "1.2.6 Build 20231130",
+                    "lmt": "2023-10-14",
+                    "lmt_dict": {
+                        "2023-10-14 03-27-09": [
+                            "https://67.78.49.82/webpages/js/libs/encrypt.js?t=7976dbf1",
+                            "https://67.78.49.82/webpages/js/libs/spectrum.js?t=7976dbf1",
+                            "https://67.78.49.82/webpages/js/su/frame.js?t=7976dbf1",
+                            "https://67.78.49.82/webpages/index.html",
+                            "https://67.78.49.82/webpages/themes/default/css/base.css?t=7976dbf1",
+                            "https://67.78.49.82/webpages/js/libs/polyfill.js?t=7976dbf1",
+                            "https://67.78.49.82/webpages/js/su/char.js?t=7976dbf1",
+                            "https://67.78.49.82/webpages/themes/default/css/spectrum.css?t=7976dbf1",
+                            "https://67.78.49.82/webpages/themes/default/css/jquery.Jcrop.css?t=7976dbf1",
+                            "https://67.78.49.82/webpages/js/libs/base64.js?t=7976dbf1",
+                            "https://67.78.49.82/webpages/js/libs/cryptoJS.min.js?t=7976dbf1",
+                            "https://67.78.49.82/webpages/js/app/url.js?t=7976dbf1",
+                            "https://67.78.49.82/webpages/js/su/language.js?t=7976dbf1",
+                            "https://67.78.49.82/webpages/themes/default/css/perfect-scrollbar.css?t=7976dbf1",
+                            "https://67.78.49.82/webpages/js/libs/jquery.qrcode.min.js?t=7976dbf1",
+                            "https://67.78.49.82/webpages/js/libs/html2canvas.min.js?t=7976dbf1",
+                            "https://67.78.49.82/webpages/js/libs/tpEncrypt.js?t=7976dbf1",
+                            "https://67.78.49.82/webpages/js/libs/jquery.Jcrop.js?t=7976dbf1"
+                        ]
+                    },
+                    "index": "tplink_https@tplink_https_2",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2022-11-08": [
+                    {
+                        "model": "ax3000 4-stream wi-fi 6 router",
+                        "version": "1.1.2 build 20221108 rel.60700(4555)"
+                    }
+                ],
+                "2023-06-03": [
+                    {
+                        "model": "ax3000 4-stream wi-fi 6 router",
+                        "version": "1.2.3 build 20230603"
+                    }
+                ],
+                "2023-11-30": [
+                    {
+                        "model": "ax3000 4-stream wi-fi 6 router",
+                        "version": "1.2.6 build 20231130"
+                    }
+                ]
+            }
+        },
+        "ax3000 gigabit wi-fi 6 router": {
+            "sample": [
+                {
+                    "version": "1.1.2 build 20231115",
+                    "lmt": "2023-08-08",
+                    "lmt_dict": {
+                        "2023-08-08 03-27-49": [
+                            "https://210.136.213.116/webpages/locale/jp_JP/help.js?_=1714058806546",
+                            "https://210.136.213.116/webpages/js/libs/base64.js?t=1caae086",
+                            "https://210.136.213.116/webpages/js/libs/cryptoJS.min.js?t=1caae086",
+                            "https://210.136.213.116/webpages/js/su/frame.js?t=1caae086",
+                            "https://210.136.213.116/webpages/locale/jp_JP/lan.js?_=1714058806545",
+                            "https://210.136.213.116/webpages/locale/jp_JP/lan.css?t=1caae086",
+                            "https://210.136.213.116/webpages/js/app/url.js?t=1caae086",
+                            "https://210.136.213.116/webpages/js/su/language.js?t=1caae086",
+                            "https://210.136.213.116/webpages/js/libs/jquery.qrcode.min.js?t=1caae086",
+                            "https://210.136.213.116/webpages/locale/jp_JP/lan.js?_=1714058810235",
+                            "https://210.136.213.116/webpages/locale/jp_JP/help.js?_=1714058810236",
+                            "https://210.136.213.116/webpages/config/modules.json?t=1caae086",
+                            "https://210.136.213.116/webpages/themes/default/css/jquery.Jcrop.css?t=1caae086",
+                            "https://210.136.213.116/webpages/themes/default/css/base.css?t=1caae086",
+                            "https://210.136.213.116/webpages/themes/default/css/jquery.Jcrop.css?t=1caae086",
+                            "https://210.136.213.116/webpages/config/models.json?t=1caae086",
+                            "https://210.136.213.116/webpages/js/su/language.js?t=1caae086",
+                            "https://210.136.213.116/webpages/locale/language.js?_=1714058806547",
+                            "https://210.136.213.116/webpages/themes/default/css/spectrum.css?t=1caae086",
+                            "https://210.136.213.116/webpages/js/libs/polyfill.js?t=1caae086",
+                            "https://210.136.213.116/webpages/js/su/char.js?t=1caae086",
+                            "https://210.136.213.116/webpages/js/libs/jquery.backgroundSize.js?t=1caae086",
+                            "https://210.136.213.116/webpages/js/libs/html2canvas.min.js?t=1caae086",
+                            "https://210.136.213.116/webpages/js/libs/tpEncrypt.js?t=1caae086",
+                            "https://210.136.213.116/webpages/locale/language.js?_=1714058810237",
+                            "https://210.136.213.116/webpages/js/libs/base64.js?t=1caae086",
+                            "https://210.136.213.116/webpages/js/libs/jquery.Jcrop.js?t=1caae086",
+                            "https://210.136.213.116/webpages/themes/default/css/perfect-scrollbar.css?t=1caae086",
+                            "https://210.136.213.116/webpages/themes/default/css/base.css?t=1caae086",
+                            "https://210.136.213.116/webpages/js/libs/cryptoJS.min.js?t=1caae086",
+                            "https://210.136.213.116/webpages/js/libs/polyfill.js?t=1caae086",
+                            "https://210.136.213.116/webpages/js/libs/jquery.qrcode.min.js?t=1caae086",
+                            "https://210.136.213.116/webpages/js/libs/html2canvas.min.js?t=1caae086",
+                            "https://210.136.213.116/webpages/themes/default/css/perfect-scrollbar.css?t=1caae086",
+                            "https://210.136.213.116/webpages/js/su/frame.js?t=1caae086",
+                            "https://210.136.213.116/webpages/locale/ispAutoConf.js?t=1caae086",
+                            "https://210.136.213.116/webpages/js/libs/jquery.Jcrop.js?t=1caae086",
+                            "https://210.136.213.116/webpages/locale/ispAutoConf.js?t=1caae086",
+                            "https://210.136.213.116/webpages/themes/default/css/spectrum.css?t=1caae086",
+                            "https://210.136.213.116/webpages/js/su/char.js?t=1caae086",
+                            "https://210.136.213.116/webpages/js/libs/jquery.min.js?t=1caae086",
+                            "https://210.136.213.116/webpages/js/app/url.js?t=1caae086",
+                            "https://210.136.213.116/webpages/js/libs/jquery.backgroundSize.js?t=1caae086",
+                            "https://210.136.213.116/webpages/index.html?t=1caae086",
+                            "https://210.136.213.116/webpages/js/libs/encrypt.js?t=1caae086",
+                            "https://210.136.213.116/webpages/js/libs/tpEncrypt.js?t=1caae086",
+                            "https://210.136.213.116/webpages/js/libs/jquery.min.js?t=1caae086",
+                            "https://210.136.213.116/webpages/locale/jp_JP/lan.css?t=1caae086",
+                            "https://210.136.213.116/webpages/js/libs/spectrum.js?t=1caae086",
+                            "https://210.136.213.116/webpages/js/libs/spectrum.js?t=1caae086",
+                            "https://210.136.213.116/webpages/js/libs/encrypt.js?t=1caae086"
+                        ]
+                    },
+                    "index": "tplink_https@15",
+                    "label_flag": "model",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2023-11-15": [
+                    {
+                        "model": "ax3000 gigabit wi-fi 6 router",
+                        "version": "1.1.2 build 20231115"
+                    }
+                ]
+            }
+        },
+        "ax4400 wi-fi 6 router": {
+            "sample": [
+                {
+                    "version": "1.2.4 build 20240125",
+                    "lmt": "2023-09-27",
+                    "lmt_dict": {
+                        "2023-09-27 23-07-57": [
+                            "https://12.221.85.30/webpages/js/libs/encrypt.js?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/js/su/frame.js?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/js/libs/slick.min.js?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/locale/language.js?_=1714479482185",
+                            "https://12.221.85.30/webpages/modules/login/controllers.js?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/js/app/url.js?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/js/su/language.js?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/modules/login/localLogin/models.js?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/js/libs/jquery.min.js?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/js/libs/spectrum.js?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/js/libs/base64.js?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/locale/en_US/lan.js?_=1714479482183",
+                            "https://12.221.85.30/webpages/js/libs/polyfill.js?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/js/su/char.js?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/js/libs/jquery.backgroundSize.js?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/modules/login/models.js?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/js/libs/html2canvas.min.js?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/js/libs/cryptoJS.min.js?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/js/libs/tpEncrypt.js?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/js/libs/jquery.Jcrop.js?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/locale/ispAutoConf.js?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/config/src.js?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/js/libs/jquery.qrcode.min.js?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/modules/login/view.html?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/themes/default/css/base.css?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/index.html?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/config/models.json?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/locale/en_US/lan.css?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/themes/default/css/slick-theme.css?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/themes/default/css/jquery.Jcrop.css?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/config/device.json?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/themes/default/css/slick.css?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/config/modules.json?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/themes/default/css/total.css?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/themes/default/css/perfect-scrollbar.css?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/themes/default/css/spectrum.css?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/error.html?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/themes/default/img/logo/favicon.ico?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/config/allModulesToLan.json?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/config/classes.json?t=baf9a7a7",
+                            "https://12.221.85.30/webpages/themes/default/img/logo/favicon.ico?t=baf9a7a7"
+                        ]
+                    },
+                    "index": "url_finder_2@1",
+                    "label_flag": "model",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2024-01-25": [
+                    {
+                        "model": "ax4400 wi-fi 6 router",
+                        "version": "1.2.4 build 20240125"
+                    }
+                ]
+            }
+        },
+        "ax5400 wi-fi 6 router": {
+            "sample": [
+                {
+                    "version": "1.3.5 build 20230922",
+                    "lmt": "2023-09-22",
+                    "lmt_dict": {
+                        "2023-09-22 11-36-47": [
+                            "https://59.152.233.162/webpages/js/libs/base64.js?t=178af237",
+                            "https://59.152.233.162/webpages/js/libs/encrypt.js?t=178af237",
+                            "https://59.152.233.162/webpages/js/libs/tpEncrypt.js?t=178af237",
+                            "https://59.152.233.162/webpages/js/libs/polyfill.js?t=178af237",
+                            "https://59.152.233.162/webpages/js/libs/tpEncrypt.js?t=178af237",
+                            "https://59.152.233.162/webpages/locale/en_US/help.js?_=1714058780443",
+                            "https://59.152.233.162/webpages/locale/en_US/lan.css?t=178af237",
+                            "https://59.152.233.162/webpages/themes/default/css/jquery.Jcrop.css?t=178af237",
+                            "https://59.152.233.162/webpages/locale/en_US/lan.css?t=178af237",
+                            "https://59.152.233.162/webpages/js/su/frame.js?t=178af237",
+                            "https://59.152.233.162/webpages/config/models.json?t=178af237",
+                            "https://59.152.233.162/webpages/js/app/url.js?t=178af237",
+                            "https://59.152.233.162/webpages/js/su/language.js?t=178af237",
+                            "https://59.152.233.162/webpages/config/modules.json?t=178af237",
+                            "https://59.152.233.162/webpages/js/libs/base64.js?t=178af237",
+                            "https://59.152.233.162/webpages/js/libs/encrypt.js?t=178af237",
+                            "https://59.152.233.162/webpages/js/libs/polyfill.js?t=178af237",
+                            "https://59.152.233.162/webpages/locale/ispAutoConf.js?t=178af237",
+                            "https://59.152.233.162/webpages/themes/default/css/spectrum.css?t=178af237",
+                            "https://59.152.233.162/webpages/themes/default/css/base.css?t=178af237",
+                            "https://59.152.233.162/webpages/themes/default/css/base.css?t=178af237",
+                            "https://59.152.233.162/webpages/js/app/url.js?t=178af237",
+                            "https://59.152.233.162/webpages/js/su/char.js?t=178af237",
+                            "https://59.152.233.162/webpages/themes/default/css/perfect-scrollbar.css?t=178af237",
+                            "https://59.152.233.162/webpages/js/libs/jquery.backgroundSize.js?t=178af237",
+                            "https://59.152.233.162/webpages/js/libs/cryptoJS.min.js?t=178af237",
+                            "https://59.152.233.162/webpages/locale/en_US/lan.js?_=1714058781862",
+                            "https://59.152.233.162/webpages/locale/language.js?_=1714058781864",
+                            "https://59.152.233.162/webpages/themes/default/css/perfect-scrollbar.css?t=178af237",
+                            "https://59.152.233.162/webpages/js/libs/jquery.backgroundSize.js?t=178af237",
+                            "https://59.152.233.162/webpages/locale/en_US/lan.js?_=1714058780442",
+                            "https://59.152.233.162/webpages/js/su/frame.js?t=178af237",
+                            "https://59.152.233.162/webpages/js/libs/jquery.min.js?t=178af237",
+                            "https://59.152.233.162/webpages/locale/en_US/help.js?_=1714058781863",
+                            "https://59.152.233.162/webpages/js/libs/jquery.Jcrop.js?t=178af237",
+                            "https://59.152.233.162/webpages/js/libs/spectrum.js?t=178af237",
+                            "https://59.152.233.162/webpages/locale/ispAutoConf.js?t=178af237",
+                            "https://59.152.233.162/webpages/index.html",
+                            "https://59.152.233.162/webpages/js/libs/cryptoJS.min.js?t=178af237",
+                            "https://59.152.233.162/webpages/locale/language.js?_=1714058780444",
+                            "https://59.152.233.162/webpages/js/libs/spectrum.js?t=178af237",
+                            "https://59.152.233.162/webpages/index.html?t=178af237",
+                            "https://59.152.233.162/webpages/js/su/char.js?t=178af237",
+                            "https://59.152.233.162/webpages/themes/default/css/spectrum.css?t=178af237",
+                            "https://59.152.233.162/webpages/themes/default/css/jquery.Jcrop.css?t=178af237",
+                            "https://59.152.233.162/webpages/js/libs/jquery.min.js?t=178af237",
+                            "https://59.152.233.162/webpages/js/libs/jquery.Jcrop.js?t=178af237",
+                            "https://59.152.233.162/webpages/js/su/language.js?t=178af237"
+                        ]
+                    },
+                    "index": "tplink_https@2",
+                    "label_flag": "model",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2022-05-20": [
+                    {
+                        "model": "ax5400 wi-fi 6 router",
+                        "version": "1.1.2 build 20220520"
+                    }
+                ],
+                "2023-08-29": [
+                    {
+                        "model": "ax5400 wi-fi 6 router",
+                        "version": "1.0.11 build 20230829"
+                    }
+                ],
+                "2023-09-19": [
+                    {
+                        "model": "ax5400 wi-fi 6 router",
+                        "version": "1.3.5 build 20230919"
+                    }
+                ],
+                "2023-09-22": [
+                    {
+                        "model": "ax5400 wi-fi 6 router",
+                        "version": "1.3.5 build 20230922"
+                    }
+                ],
+                "2023-09-27": [
+                    {
+                        "model": "ax5400 wi-fi 6 router",
+                        "version": "1.2.2 build 20230927"
+                    }
+                ],
+                "2023-10-23": [
+                    {
+                        "model": "ax5400 wi-fi 6 router",
+                        "version": "1.0.12 build 20231023"
+                    }
+                ],
+                "2023-10-25": [
+                    {
+                        "model": "ax5400 wi-fi 6 router",
+                        "version": "1.2.3 build 20231025"
+                    }
+                ],
+                "2024-03-27": [
+                    {
+                        "model": "ax5400 wi-fi 6 router",
+                        "version": "1.2.5 build 20240327"
+                    }
+                ]
+            }
+        },
+        "ax6600 wi-fi 6 tri-band gaming router": {
+            "sample": [
+                {
+                    "version": "1.1.4 build 20231117",
+                    "lmt": "2022-03-01",
+                    "lmt_dict": {
+                        "2022-03-01 00-40-14": [
+                            "https://68.196.16.229/webpages/js/su/frame.js?t=6ee9015e",
+                            "https://68.196.16.229/webpages/modules/login/models.js?t=6ee9015e",
+                            "https://68.196.16.229/webpages/locale/language.js?_=1714479290188",
+                            "https://68.196.16.229/webpages/modules/login/controllers.js?t=6ee9015e",
+                            "https://68.196.16.229/webpages/js/libs/base64.js?t=6ee9015e",
+                            "https://68.196.16.229/webpages/js/libs/tpEncrypt.js?t=6ee9015e",
+                            "https://68.196.16.229/webpages/js/libs/jquery.backgroundSize.js?t=6ee9015e",
+                            "https://68.196.16.229/webpages/js/su/char.js?t=6ee9015e",
+                            "https://68.196.16.229/webpages/js/su/language.js?t=6ee9015e",
+                            "https://68.196.16.229/webpages/js/libs/jquery.min.js?t=6ee9015e",
+                            "https://68.196.16.229/webpages/js/libs/encrypt.js?t=6ee9015e",
+                            "https://68.196.16.229/webpages/js/libs/cryptoJS.min.js?t=6ee9015e",
+                            "https://68.196.16.229/webpages/locale/en_US/lan.js?_=1714479290186",
+                            "https://68.196.16.229/webpages/js/app/url.js?t=6ee9015e",
+                            "https://68.196.16.229/webpages/config/src.js?t=6ee9015e",
+                            "https://68.196.16.229/webpages/themes/gaming/css/perfect-scrollbar.css?t=6ee9015e",
+                            "https://68.196.16.229/webpages/index.html?t=6ee9015e",
+                            "https://68.196.16.229/webpages/config/models.json?t=6ee9015e",
+                            "https://68.196.16.229/webpages/themes/gaming/css/base.css?t=6ee9015e",
+                            "https://68.196.16.229/webpages/config/device.json?t=6ee9015e",
+                            "https://68.196.16.229/webpages/modules/login/view.html?t=6ee9015e",
+                            "https://68.196.16.229/webpages/config/classes.json?t=6ee9015e",
+                            "https://68.196.16.229/webpages/locale/en_US/lan.css?t=6ee9015e",
+                            "https://68.196.16.229/webpages/config/modules.json?t=6ee9015e",
+                            "https://68.196.16.229/webpages/themes/gaming/css/total.css?t=6ee9015e",
+                            "https://68.196.16.229/webpages/error.html?t=6ee9015e",
+                            "https://68.196.16.229/webpages/favicon.ico?t=6ee9015e",
+                            "https://68.196.16.229/webpages/favicon.ico?t=6ee9015e"
+                        ]
+                    },
+                    "index": "url_finder_10@1",
+                    "label_flag": "model",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2023-11-17": [
+                    {
+                        "model": "ax6600 wi-fi 6 tri-band gaming router",
+                        "version": "1.1.4 build 20231117"
+                    }
+                ]
+            }
+        },
+        "axe5400 tri-band wi-fi 6e router": {
+            "sample": [
+                {
+                    "version": "1.1.9 build 20231115",
+                    "lmt": "2023-07-18",
+                    "lmt_dict": {
+                        "2023-07-18 03-00-09": [
+                            "https://110.238.149.113:3333/webpages/js/libs/base64.js?t=eb9856ea",
+                            "https://110.238.149.113:3333/webpages/modules/login/localLogin/models.js?t=eb9856ea",
+                            "https://110.238.149.113:3333/webpages/js/libs/jquery.backgroundSize.js?t=eb9856ea",
+                            "https://110.238.149.113:3333/webpages/js/libs/jquery.min.js?t=eb9856ea",
+                            "https://110.238.149.113:3333/webpages/js/libs/cryptoJS.min.js?t=eb9856ea",
+                            "https://110.238.149.113:3333/webpages/js/libs/tpEncrypt.js?t=eb9856ea",
+                            "https://110.238.149.113:3333/webpages/js/libs/encrypt.js?t=eb9856ea",
+                            "https://110.238.149.113:3333/webpages/js/su/language.js?t=eb9856ea",
+                            "https://110.238.149.113:3333/webpages/js/su/frame.js?t=eb9856ea",
+                            "https://110.238.149.113:3333/webpages/js/libs/jquery.min.js",
+                            "https://110.238.149.113:3333/webpages/js/libs/jquery.backgroundSize.js",
+                            "https://110.238.149.113:3333/webpages/js/libs/base64.js",
+                            "https://110.238.149.113:3333/webpages/js/libs/encrypt.js",
+                            "https://110.238.149.113:3333/webpages/js/libs/cryptoJS.min.js",
+                            "https://110.238.149.113:3333/webpages/js/libs/tpEncrypt.js",
+                            "https://110.238.149.113:3333/webpages/js/app/url.js",
+                            "https://110.238.149.113:3333/webpages/js/su/char.js",
+                            "https://110.238.149.113:3333/webpages/js/su/language.js",
+                            "https://110.238.149.113:3333/webpages/js/su/frame.js",
+                            "https://110.238.149.113:3333/webpages/js/libs/respond.min.js",
+                            "https://110.238.149.113:3333/webpages/locale/language.js?_=1714477933681",
+                            "https://110.238.149.113:3333/webpages/modules/login/models.js?t=eb9856ea",
+                            "https://110.238.149.113:3333/webpages/config/src.js?t=eb9856ea",
+                            "https://110.238.149.113:3333/webpages/js/su/char.js?t=eb9856ea",
+                            "https://110.238.149.113:3333/webpages/locale/en_US/lan.js?_=1714477933679",
+                            "https://110.238.149.113:3333/webpages/js/app/url.js?t=eb9856ea",
+                            "https://110.238.149.113:3333/webpages/themes/default/css/base.css?t=eb9856ea",
+                            "https://110.238.149.113:3333/webpages/config/device.ce.json?t=eb9856ea",
+                            "https://110.238.149.113:3333/webpages/locale/en_US/lan.css?t=eb9856ea",
+                            "https://110.238.149.113:3333/webpages/config/classes.json?t=eb9856ea",
+                            "https://110.238.149.113:3333/webpages/modules/login/localLogin/view.html?t=eb9856ea",
+                            "https://110.238.149.113:3333/webpages/error.html?t=eb9856ea",
+                            "https://110.238.149.113:3333/webpages/favicon.ico?t=eb9856ea",
+                            "https://110.238.149.113:3333/webpages/config/models.json?t=eb9856ea",
+                            "https://110.238.149.113:3333/webpages/themes/default/css/perfect-scrollbar.css?t=eb9856ea",
+                            "https://110.238.149.113:3333/webpages/themes/default/css/total.css?t=eb9856ea",
+                            "https://110.238.149.113:3333/webpages/modules/main/main.html?t=eb9856ea",
+                            "https://110.238.149.113:3333/webpages/index.html?t=eb9856ea",
+                            "https://110.238.149.113:3333/webpages/favicon.ico?t=eb9856ea",
+                            "https://110.238.149.113:3333/webpages/config/classes.json?t=eb9856ea",
+                            "https://110.238.149.113:3333/webpages/config/device.json?t=eb9856ea",
+                            "https://110.238.149.113:3333/webpages/config/models.json?t=eb9856ea",
+                            "https://110.238.149.113:3333/webpages/config/modules.json?t=eb9856ea"
+                        ]
+                    },
+                    "index": "url_finder_1@1",
+                    "label_flag": "model",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2023-07-18": [
+                    {
+                        "model": "axe5400 tri-band wi-fi 6e router",
+                        "version": "1.1.8 build 20230718"
+                    }
+                ],
+                "2023-11-15": [
+                    {
+                        "model": "axe5400 tri-band wi-fi 6e router",
+                        "version": "1.1.9 build 20231115"
+                    }
+                ]
+            }
+        },
+        "be9300 tri-band wi-fi 7 router": {
+            "sample": [
+                {
+                    "version": "1.0.2 build 20240112",
+                    "lmt": "2024-01-11",
+                    "lmt_dict": {
+                        "2024-01-11 15-59-36": [
+                            "https://36.234.162.46/webpages/js/libs/jquery.Jcrop.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/themes/default/css/jquery.Jcrop.css?t=5a3614ba",
+                            "https://36.234.162.46/webpages/js/libs/jquery.min.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/js/libs/jquery.min.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/js/libs/base64.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/js/su/char.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/locale/zh_TW/lan.js?_=1714058793954",
+                            "https://36.234.162.46/webpages/locale/language.js?_=1714058793956",
+                            "https://36.234.162.46/webpages/js/su/service.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/js/libs/cryptoJS.min.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/js/libs/tpEncrypt.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/js/libs/polyfill.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/locale/zh_TW/lan.css?t=5a3614ba",
+                            "https://36.234.162.46/webpages/js/libs/encrypt.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/locale/ispAutoConf.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/js/libs/base64.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/js/app/url.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/js/su/char.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/locale/zh_TW/lan.js?_=1714058796344",
+                            "https://36.234.162.46/webpages/locale/zh_TW/lan.css?t=5a3614ba",
+                            "https://36.234.162.46/webpages/js/libs/jquery.Jcrop.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/js/su/language.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/index.html",
+                            "https://36.234.162.46/webpages/js/libs/polyfill.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/index.html?t=5a3614ba",
+                            "https://36.234.162.46/webpages/js/su/widget.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/themes/default/css/jquery.Jcrop.css?t=5a3614ba",
+                            "https://36.234.162.46/webpages/js/libs/cryptoJS.min.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/themes/default/css/base.css?t=5a3614ba",
+                            "https://36.234.162.46/webpages/themes/default/css/spectrum.css?t=5a3614ba",
+                            "https://36.234.162.46/webpages/js/app/url.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/js/libs/encrypt.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/js/libs/html2canvas.min.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/themes/default/css/spectrum.css?t=5a3614ba",
+                            "https://36.234.162.46/webpages/themes/default/css/base.css?t=5a3614ba",
+                            "https://36.234.162.46/webpages/js/libs/spectrum.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/js/su/frame.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/js/su/language.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/locale/zh_TW/help.js?_=1714058793955",
+                            "https://36.234.162.46/webpages/js/libs/jquery.backgroundSize.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/js/libs/jquery.qrcode.min.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/js/libs/spectrum.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/locale/zh_TW/help.js?_=1714058796345",
+                            "https://36.234.162.46/webpages/js/libs/jquery.backgroundSize.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/locale/language.js?_=1714058796346",
+                            "https://36.234.162.46/webpages/js/su/frame.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/js/libs/tpEncrypt.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/js/libs/jquery.qrcode.min.js?t=5a3614ba",
+                            "https://36.234.162.46/webpages/themes/default/css/perfect-scrollbar.css?t=5a3614ba",
+                            "https://36.234.162.46/webpages/themes/default/css/perfect-scrollbar.css?t=5a3614ba",
+                            "https://36.234.162.46/webpages/js/libs/html2canvas.min.js?t=5a3614ba"
+                        ]
+                    },
+                    "index": "tplink_https@13",
+                    "label_flag": "model",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2024-01-22": [
+                    {
+                        "model": "be9300 tri-band wi-fi 7 router",
+                        "version": "1.0.2 build 20240112"
+                    }
+                ]
+            }
+        }
+    },
+    "266": {
+        "tl-wa850re": {
+            "sample": [
+                {
+                    "version": "7",
+                    "lmt": "2019-08-22",
+                    "lmt_dict": {
+                        "2019-08-22 06-56-32": [
+                            "/ext/adapter/ext/ext-base.js",
+                            "/ext/ext-all.js",
+                            "/rs/hm.util.js",
+                            "/rs/hm.error.js",
+                            "/rs/hm.css",
+                            "/ext/resources/css/ext-all.css",
+                            "/ext/multiselect/multiselect.css",
+                            "/ext/resources/css/xtheme-gray.css"
+                        ]
+                    },
+                    "index": "cydar_export_20241225@3804",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2014-07-18": [
+                    {
+                        "model": "tl-wa850re",
+                        "version": "v1.2_140718"
+                    }
+                ],
+                "2014-11-24": [
+                    {
+                        "model": "tl-wa850re",
+                        "version": "v1.2_141124"
+                    }
+                ],
+                "2015-01-27": [
+                    {
+                        "model": "tl-wa850re",
+                        "version": "v1.2_150127"
+                    }
+                ],
+                "2017-11-23": [
+                    {
+                        "model": "tl-wa850re",
+                        "version": "v2_171123"
+                    }
+                ],
+                "2017-12-28": [
+                    {
+                        "model": "tl-wa850re",
+                        "version": "v2_171228"
+                    }
+                ],
+                "2019-07-31": [
+                    {
+                        "model": "tl-wa850re",
+                        "version": "v6_190731"
+                    }
+                ],
+                "2020-04-03": [
+                    {
+                        "model": "tl-wa850re",
+                        "version": "v6_200403"
+                    }
+                ],
+                "2020-07-31": [
+                    {
+                        "model": "tl-wa850re",
+                        "version": "v7_200731"
+                    }
+                ],
+                "2020-09-23": [
+                    {
+                        "model": "tl-wa850re",
+                        "version": "v6_200923"
+                    },
+                    {
+                        "model": "tl-wa850re",
+                        "version": "v7_200923"
+                    }
+                ],
+                "2021-11-17": [
+                    {
+                        "model": "tl-wa850re",
+                        "version": "v7_211117"
+                    }
+                ],
+                "2022-06-15": [
+                    {
+                        "model": "tl-wa850re",
+                        "version": "v2_220615"
+                    },
+                    {
+                        "model": "tl-wa850re",
+                        "version": "v3_220615"
+                    }
+                ]
+            }
+        }
+    },
+    "204": {
+        "ec220-g5": {
+            "sample": [
+                {
+                    "version": "3.0",
+                    "lmt": "2024-06-26",
+                    "lmt_dict": {
+                        "2024-06-26 09-17-13": [
+                            "/common.js"
+                        ]
+                    },
+                    "index": "cydar_export_20241224@313",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2023-05-05": [
+                    {
+                        "model": "ec220-g5",
+                        "version": "1.13.1 build 230505"
+                    }
+                ]
+            }
+        }
+    },
+    "214": {
+        "axe16000 quad-band wi-fi 6e router": {
+            "sample": [
+                {
+                    "version": "1.0.9 build 20230525",
+                    "lmt": "2023-05-25",
+                    "lmt_dict": {
+                        "2023-05-25 00-50-20": [
+                            "https://23.28.108.101/webpages/js/su/language.js?t=0db3abd7",
+                            "https://23.28.108.101/webpages/js/libs/cryptoJS.min.js?t=0db3abd7",
+                            "https://23.28.108.101/webpages/js/libs/encrypt.js?t=0db3abd7",
+                            "https://23.28.108.101/webpages/js/libs/polyfill.js?t=0db3abd7",
+                            "https://23.28.108.101/webpages/js/libs/jquery.Jcrop.js?t=0db3abd7",
+                            "https://23.28.108.101/webpages/config/src.js?t=0db3abd7",
+                            "https://23.28.108.101/webpages/modules/login/localLogin/models.js?t=0db3abd7",
+                            "https://23.28.108.101/webpages/js/libs/jquery.min.js?t=0db3abd7",
+                            "https://23.28.108.101/webpages/js/libs/jquery.backgroundSize.js?t=0db3abd7",
+                            "https://23.28.108.101/webpages/js/su/char.js?t=0db3abd7",
+                            "https://23.28.108.101/webpages/js/app/url.js?t=0db3abd7",
+                            "https://23.28.108.101/webpages/modules/login/models.js?t=0db3abd7",
+                            "https://23.28.108.101/webpages/js/libs/base64.js?t=0db3abd7",
+                            "https://23.28.108.101/webpages/js/libs/tpEncrypt.js?t=0db3abd7",
+                            "https://23.28.108.101/webpages/modules/login/controllers.js?t=0db3abd7",
+                            "https://23.28.108.101/webpages/locale/ispAutoConf.js?t=0db3abd7",
+                            "https://23.28.108.101/webpages/locale/language.js?_=1714321533422",
+                            "https://23.28.108.101/webpages/js/libs/spectrum.js?t=0db3abd7",
+                            "https://23.28.108.101/webpages/js/su/frame.js?t=0db3abd7",
+                            "https://23.28.108.101/webpages/locale/en_US/lan.js?_=1714321533420",
+                            "https://23.28.108.101/webpages/config/classes.json?t=0db3abd7",
+                            "https://23.28.108.101/webpages/config/modules.json?t=0db3abd7",
+                            "https://23.28.108.101/webpages/themes/default/css/jquery.Jcrop.css?t=0db3abd7",
+                            "https://23.28.108.101/webpages/index.html?t=0db3abd7",
+                            "https://23.28.108.101/webpages/themes/default/css/perfect-scrollbar.css?t=0db3abd7",
+                            "https://23.28.108.101/webpages/config/models.json?t=0db3abd7",
+                            "https://23.28.108.101/webpages/locale/en_US/lan.css?t=0db3abd7",
+                            "https://23.28.108.101/webpages/modules/login/view.html?t=0db3abd7",
+                            "https://23.28.108.101/webpages/modules/login/localLogin/view.html?t=0db3abd7",
+                            "https://23.28.108.101/webpages/themes/default/css/base.css?t=0db3abd7",
+                            "https://23.28.108.101/webpages/config/device.json?t=0db3abd7",
+                            "https://23.28.108.101/webpages/themes/default/css/spectrum.css?t=0db3abd7",
+                            "https://23.28.108.101/webpages/themes/default/css/total.css?t=0db3abd7",
+                            "https://23.28.108.101/webpages/error.html?t=0db3abd7",
+                            "https://23.28.108.101/webpages/themes/default/img/logo/favicon.ico?t=0db3abd7",
+                            "https://23.28.108.101/webpages/themes/default/img/logo/favicon.ico?t=0db3abd7",
+                            "https://23.28.108.101/webpages/config/classes.json?t=0db3abd7",
+                            "https://23.28.108.101/webpages/config/device.json?t=0db3abd7",
+                            "https://23.28.108.101/webpages/config/models.json?t=0db3abd7",
+                            "https://23.28.108.101/webpages/config/modules.json?t=0db3abd7",
+                            "https://23.28.108.101/webpages/config/navigator.json?t=0db3abd7"
+                        ]
+                    },
+                    "index": "url_finder_3@1",
+                    "label_flag": "model",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2023-05-25": [
+                    {
+                        "model": "axe16000 quad-band wi-fi 6e router",
+                        "version": "1.0.9 build 20230525"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,2665 @@
+{
+    "-1": {
+        "beethoven 06": {
+            "sample": [
+                {
+                    "version": "0028.8852",
+                    "lmt": "2022-10-27",
+                    "lmt_dict": {
+                        "2022-10-27 15-03-44": [
+                            "/ViewOffice/js/jquery-3.5.1.min.js",
+                            "/ViewOffice/js/bootbox.5.5.2.min.js?t=20210818.2043",
+                            "/ViewOffice/js/colorbox/jquery.colorbox-min.js",
+                            "/ViewOffice/js/colorbox/colorbox.css"
+                        ],
+                        "2022-10-27 15-03-49": [
+                            "/ViewOffice/lib/bootstrap/3.2.0/js/bootstrap.min.js"
+                        ],
+                        "2022-10-27 15-03-20": [
+                            "/ViewOffice/ext/resources/css/ext-all.css"
+                        ],
+                        "2022-10-27 15-03-21": [
+                            "/ViewOffice/menu/menu.css"
+                        ],
+                        "2022-10-27 15-03-25": [
+                            "/ViewOffice/images/ics_logo.png",
+                            "/ViewOffice/images/ics_logo_small.png"
+                        ]
+                    },
+                    "index": "dscan_3@3_16819"
+                }
+            ],
+            "ERT_list": []
+        },
+        "berkeley.04": {
+            "sample": [
+                {
+                    "version": "15.17",
+                    "lmt": "2017-04-14",
+                    "lmt_dict": {
+                        "2017-04-14 11-20-40": [
+                            "/js/vendors.js",
+                            "/css/vendors.css"
+                        ],
+                        "2017-04-14 18-12-25": [
+                            "/js/application.js"
+                        ],
+                        "2017-04-14 12-33-44": [
+                            "/css/application.css"
+                        ]
+                    },
+                    "index": "dscan_1@1_11615"
+                }
+            ],
+            "ERT_list": []
+        },
+        "florida - 561": {
+            "sample": [
+                {
+                    "version": "644.1329",
+                    "lmt": "2021-03-23",
+                    "lmt_dict": {
+                        "2012-06-19 23-21-48": [
+                            "/scripts/p7exp.js"
+                        ],
+                        "2012-06-19 23-21-47": [
+                            "/scripts/jquery.pikachoose.js"
+                        ],
+                        "2012-06-19 23-21-51": [
+                            "/styles.css"
+                        ],
+                        "2012-06-19 23-21-42": [
+                            "/pika_intro.css"
+                        ],
+                        "2012-06-19 23-21-24": [
+                            "/images/slideshow/chase.jpg"
+                        ],
+                        "2012-06-19 23-21-26": [
+                            "/images/slideshow/medicalcenter.jpg"
+                        ],
+                        "2012-06-19 23-21-25": [
+                            "/images/slideshow/hollywood.jpg"
+                        ],
+                        "2012-06-19 23-21-29": [
+                            "/images/slideshow/rapallonorth.jpg"
+                        ],
+                        "2012-06-19 23-21-30": [
+                            "/images/slideshow/rapallosouth.jpg"
+                        ],
+                        "2012-06-19 23-21-32": [
+                            "/images/slideshow/tillman.jpg"
+                        ],
+                        "2021-03-23 17-14-29": [
+                            "/images/slideshow/DETROIT DIESEL CT.jpg"
+                        ],
+                        "2021-03-23 17-04-37": [
+                            "/images/slideshow/PERSHING BARRACKS.jpg"
+                        ],
+                        "2012-06-19 23-20-24": [
+                            "/images/bmc_consulting_logo.png"
+                        ],
+                        "2012-06-19 23-21-28": [
+                            "/images/slideshow/power_of_bmc.png"
+                        ],
+                        "2012-06-19 23-21-20": [
+                            "/images/services_rollover/services_title.png"
+                        ],
+                        "2012-06-19 23-21-17": [
+                            "/images/services_rollover/mechanical_engineering.png"
+                        ],
+                        "2012-06-19 23-21-13": [
+                            "/images/services_rollover/electrical_engineering.png"
+                        ],
+                        "2012-06-19 23-21-19": [
+                            "/images/services_rollover/plumbing_design.png"
+                        ],
+                        "2012-06-19 23-21-15": [
+                            "/images/services_rollover/fire_protection.png"
+                        ],
+                        "2012-06-19 23-21-14": [
+                            "/images/services_rollover/energy_consulting.png"
+                        ],
+                        "2012-06-19 23-21-16": [
+                            "/images/services_rollover/leed_commissioning.png"
+                        ],
+                        "2012-06-19 23-21-18": [
+                            "/images/services_rollover/peer_reviews.png"
+                        ],
+                        "2012-06-19 23-21-12": [
+                            "/images/services_rollover/construction_admin.png"
+                        ],
+                        "2012-06-19 23-21-11": [
+                            "/images/services_rollover/building_forensics.png"
+                        ],
+                        "2012-06-19 23-21-35": [
+                            "/images/twitter.png"
+                        ],
+                        "2012-06-19 23-20-39": [
+                            "/images/linkedin.png"
+                        ],
+                        "2012-06-19 23-20-35": [
+                            "/images/facebook.png"
+                        ],
+                        "2012-06-19 23-21-36": [
+                            "/images/twitter_small.png"
+                        ],
+                        "2012-06-19 23-20-40": [
+                            "/images/linkedin_small.png"
+                        ],
+                        "2012-06-19 23-20-36": [
+                            "/images/facebook_small.png"
+                        ]
+                    },
+                    "index": "cydar_0524_http_1-11@cydar_0524_http_1-11_24380"
+                }
+            ],
+            "ERT_list": []
+        },
+        "s5720-28x-li-24s-ac": {
+            "sample": [
+                {
+                    "version": "5.170",
+                    "lmt": "2017-02-16",
+                    "lmt_dict": {
+                        "2017-02-16 13-30-30": [
+                            "/copyright/info.js"
+                        ]
+                    },
+                    "index": "cydar_0524_http_1-11@cydar_0524_http_1-11_30313"
+                }
+            ],
+            "ERT_list": []
+        },
+        "s6730-h48x6c": {
+            "sample": [
+                {
+                    "version": "5.170",
+                    "lmt": "2022-11-02",
+                    "lmt_dict": {
+                        "2022-11-02 10-20-52": [
+                            "/copyright/info.js"
+                        ],
+                        "2022-11-02 10-20-54": [
+                            "/open_source/jquery/jquery.js"
+                        ],
+                        "2022-11-02 10-20-36": [
+                            "/simple/style/default/image/IE.png",
+                            "/simple/style/default/image/Firefox.png",
+                            "/simple/style/default/image/Chrome.png",
+                            "/simple/style/default/image/focusedOption.png"
+                        ]
+                    },
+                    "index": "cydar_0524_http_1-11@cydar_0524_http_1-11_30338"
+                }
+            ],
+            "ERT_list": []
+        },
+        "s5720-28x-si-ac": {
+            "sample": [
+                {
+                    "version": "5.170",
+                    "lmt": "2018-05-25",
+                    "lmt_dict": {
+                        "2018-05-25 07-55-34": [
+                            "/copyright/info.js"
+                        ]
+                    },
+                    "index": "cydar_0524_http_1-11@cydar_0524_http_1-11_30359"
+                }
+            ],
+            "ERT_list": []
+        },
+        "s6720s-26q-ei-24s-ac": {
+            "sample": [
+                {
+                    "version": "5.170",
+                    "lmt": "2017-02-16",
+                    "lmt_dict": {
+                        "2017-02-16 13-30-30": [
+                            "/copyright/info.js"
+                        ]
+                    },
+                    "index": "cydar_0524_http_1-11@cydar_0524_http_1-11_30366"
+                }
+            ],
+            "ERT_list": []
+        },
+        "s5720-32x-ei-24s-ac": {
+            "sample": [
+                {
+                    "version": "5.170",
+                    "lmt": "2017-02-16",
+                    "lmt_dict": {
+                        "2017-02-16 13-30-30": [
+                            "/copyright/info.js"
+                        ]
+                    },
+                    "index": "cydar_0524_http_1-11@cydar_0524_http_1-11_30386"
+                }
+            ],
+            "ERT_list": []
+        },
+        "s6730-h24x6c": {
+            "sample": [
+                {
+                    "version": "5.170",
+                    "lmt": "1980-01-01",
+                    "lmt_dict": {
+                        "1980-01-01 00-05-16": [
+                            "/copyright/info.js"
+                        ],
+                        "1980-01-01 00-05-12": [
+                            "/simple/style/default/image/IE.png",
+                            "/simple/style/default/image/Firefox.png",
+                            "/simple/style/default/image/Chrome.png"
+                        ]
+                    },
+                    "index": "cydar_0524_http_1-11@cydar_0524_http_1-11_30408"
+                }
+            ],
+            "ERT_list": []
+        }
+    },
+    "195": {
+        "smc": {
+            "sample": [
+                {
+                    "version": "4.7",
+                    "lmt": "2023-05-16",
+                    "lmt_dict": {
+                        "2020-12-09 08-33-48": [
+                            "/client/public/jquery-3.5.1.min.js",
+                            "/client/public/login.png"
+                        ],
+                        "2023-05-16 13-49-41": [
+                            "/client/public/login.jpg"
+                        ]
+                    },
+                    "index": "lzh_0@complete_dscan_result_lzh_sample_0_3100",
+                    "label_flag": "none",
+                    "lmt_type": "Far"
+                }
+            ],
+            "ERT_list": {
+                "2020-09-08": [
+                    {
+                        "model": "smc",
+                        "version": "patchtool 1.0.0"
+                    }
+                ],
+                "2020-10-21": [
+                    {
+                        "model": "smc",
+                        "version": "20.1.0.spc1"
+                    }
+                ],
+                "2021-02-09": [
+                    {
+                        "model": "smc",
+                        "version": "21.0.1"
+                    }
+                ],
+                "2021-06-16": [
+                    {
+                        "model": "smc",
+                        "version": "21.0.1.spc4"
+                    }
+                ],
+                "2021-07-31": [
+                    {
+                        "model": "smc",
+                        "version": "21.0.1.spc5"
+                    }
+                ],
+                "2021-11-23": [
+                    {
+                        "model": "smc",
+                        "version": "21.0.100.spc1"
+                    }
+                ],
+                "2021-12-30": [
+                    {
+                        "model": "smc",
+                        "version": "21.0.100.spc100"
+                    }
+                ],
+                "2022-02-18": [
+                    {
+                        "model": "smc",
+                        "version": "21.0.100.spc101"
+                    }
+                ],
+                "2022-06-05": [
+                    {
+                        "model": "smc",
+                        "version": "21.0.100.spc102"
+                    }
+                ],
+                "2022-06-18": [
+                    {
+                        "model": "smc",
+                        "version": "21.0.100.spc103"
+                    }
+                ],
+                "2022-09-03": [
+                    {
+                        "model": "smc",
+                        "version": "21.0.100.spc104"
+                    }
+                ],
+                "2023-01-09": [
+                    {
+                        "model": "smc",
+                        "version": "smc 21.0.200.spc100"
+                    }
+                ],
+                "2023-05-10": [
+                    {
+                        "model": "smc",
+                        "version": "smc 21.0.200.spc101"
+                    }
+                ],
+                "2023-11-09": [
+                    {
+                        "model": "smc",
+                        "version": "smc 21.0.200.spc206"
+                    }
+                ]
+            }
+        }
+    },
+    "268": {
+        "huawei-s6720": {
+            "sample": [
+                {
+                    "version": "0.190",
+                    "lmt": "2017-02-16",
+                    "lmt_dict": {
+                        "2017-02-16 13-30-30": [
+                            "/copyright/info.js"
+                        ]
+                    },
+                    "index": "cydar_0524_http_1-11@cydar_0524_http_1-11_30308",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2019-09-16": [
+                    {
+                        "model": "huawei cloud stack update",
+                        "version": "6.5.1"
+                    }
+                ],
+                "2019-09-17": [
+                    {
+                        "model": "huawei cloud stack",
+                        "version": "6.5.1"
+                    }
+                ],
+                "2019-10-15": [
+                    {
+                        "model": "huawei cloud stack update",
+                        "version": "6.5.1.spc100"
+                    }
+                ],
+                "2020-03-31": [
+                    {
+                        "model": "huawei cloud stack update",
+                        "version": "8.0.0"
+                    }
+                ],
+                "2020-07-01": [
+                    {
+                        "model": "huawei cloud stack",
+                        "version": "8.0.1"
+                    }
+                ],
+                "2020-09-28": [
+                    {
+                        "model": "huawei cloud aom",
+                        "version": "1.2.0"
+                    }
+                ],
+                "2020-09-29": [
+                    {
+                        "model": "huawei cloud dcs",
+                        "version": "1.2.1"
+                    },
+                    {
+                        "model": "huawei cloud stack",
+                        "version": "8.0.2"
+                    }
+                ],
+                "2020-11-06": [
+                    {
+                        "model": "huawei cloud dcs",
+                        "version": "1.2.2"
+                    }
+                ],
+                "2020-11-09": [
+                    {
+                        "model": "huawei cloud aom",
+                        "version": "1.2.2"
+                    }
+                ],
+                "2020-12-30": [
+                    {
+                        "model": "huawei cloud stack designer",
+                        "version": "8.0.2.1"
+                    }
+                ],
+                "2021-03-29": [
+                    {
+                        "model": "huawei cloud dcs",
+                        "version": "1.5.0"
+                    }
+                ],
+                "2021-04-28": [
+                    {
+                        "model": "huawei cloud dcs",
+                        "version": "1.5.1"
+                    }
+                ],
+                "2021-06-30": [
+                    {
+                        "model": "huawei cloud dcs",
+                        "version": "1.5.7"
+                    }
+                ],
+                "2021-09-28": [
+                    {
+                        "model": "huawei cloud stack rams",
+                        "version": "8.1.0"
+                    }
+                ],
+                "2021-10-30": [
+                    {
+                        "model": "huawei cloud aom",
+                        "version": "1.7.1"
+                    },
+                    {
+                        "model": "huawei cloud dcs",
+                        "version": "1.7.1"
+                    },
+                    {
+                        "model": "huawei cloud stack rams",
+                        "version": "8.1.0.spc1"
+                    },
+                    {
+                        "model": "huawei cloud stack update",
+                        "version": "8.1.0"
+                    }
+                ],
+                "2021-11-10": [
+                    {
+                        "model": "huawei cloud stack rams",
+                        "version": "8.1.0.spc2"
+                    }
+                ],
+                "2021-12-16": [
+                    {
+                        "model": "huawei cloud aom",
+                        "version": "1.7.2"
+                    }
+                ],
+                "2021-12-29": [
+                    {
+                        "model": "huawei cloud dcs",
+                        "version": "1.7.2"
+                    }
+                ],
+                "2021-12-31": [
+                    {
+                        "model": "huawei cloud stack update",
+                        "version": "8.1.0.spc100"
+                    }
+                ],
+                "2022-01-17": [
+                    {
+                        "model": "huawei cloud dcs",
+                        "version": "1.5.10"
+                    }
+                ],
+                "2022-02-10": [
+                    {
+                        "model": "huawei cloud stack designer",
+                        "version": "hcsdesigner_it huaweicloudstackdesigner8.0.5.b120"
+                    }
+                ],
+                "2022-03-28": [
+                    {
+                        "model": "huawei cloud stack designer",
+                        "version": "hcsdesigner_it huaweicloudstackdesigner8.1.1"
+                    }
+                ],
+                "2022-03-29": [
+                    {
+                        "model": "huawei cloud stack rams",
+                        "version": "8.1.1"
+                    }
+                ],
+                "2022-03-31": [
+                    {
+                        "model": "huawei cloud aom",
+                        "version": "1.8.0"
+                    },
+                    {
+                        "model": "huawei cloud dcs",
+                        "version": "1.8.0"
+                    }
+                ],
+                "2022-04-29": [
+                    {
+                        "model": "huawei cloud dcs",
+                        "version": "1.8.0.1"
+                    },
+                    {
+                        "model": "huawei cloud stack rams",
+                        "version": "8.1.1.1"
+                    }
+                ],
+                "2022-06-01": [
+                    {
+                        "model": "huawei cloud dcs",
+                        "version": "1.8.5"
+                    }
+                ],
+                "2022-06-02": [
+                    {
+                        "model": "huawei cloud aom",
+                        "version": "1.8.5"
+                    }
+                ],
+                "2022-06-06": [
+                    {
+                        "model": "huawei cloud aom",
+                        "version": "1.8.0.1"
+                    }
+                ],
+                "2022-06-07": [
+                    {
+                        "model": "huawei cloud dcs",
+                        "version": "1.7.3.1"
+                    }
+                ],
+                "2022-07-19": [
+                    {
+                        "model": "huawei cloud stack deploy",
+                        "version": "8.1.1.spc102"
+                    }
+                ],
+                "2022-08-11": [
+                    {
+                        "model": "huawei cloud stack update",
+                        "version": "8.1.1.spc101"
+                    }
+                ],
+                "2022-09-29": [
+                    {
+                        "model": "huawei cloud aom",
+                        "version": "1.9.0"
+                    },
+                    {
+                        "model": "huawei cloud dcs",
+                        "version": "1.9.0"
+                    }
+                ],
+                "2022-09-30": [
+                    {
+                        "model": "huawei cloud stack rams",
+                        "version": "8.2.0"
+                    }
+                ],
+                "2022-10-30": [
+                    {
+                        "model": "huawei cloud dcs",
+                        "version": "1.9.5"
+                    },
+                    {
+                        "model": "huawei cloud stack rams",
+                        "version": "8.2.0.spc1"
+                    }
+                ],
+                "2022-10-31": [
+                    {
+                        "model": "huawei cloud aom",
+                        "version": "1.9.0.1"
+                    }
+                ],
+                "2022-11-09": [
+                    {
+                        "model": "huawei cloud dcs",
+                        "version": "1.8.5.1"
+                    }
+                ],
+                "2022-11-10": [
+                    {
+                        "model": "huawei cloud stack deploy",
+                        "version": "8.1.0.6"
+                    }
+                ],
+                "2022-11-15": [
+                    {
+                        "model": "huawei cloud aom",
+                        "version": "1.9.0.2"
+                    },
+                    {
+                        "model": "huawei cloud dcs",
+                        "version": "1.9.5.1"
+                    }
+                ],
+                "2022-11-16": [
+                    {
+                        "model": "huawei cloud dcs",
+                        "version": "1.5.10.1"
+                    }
+                ],
+                "2023-01-30": [
+                    {
+                        "model": "huawei cloud dcs",
+                        "version": "huawei cloud dcs 1.9.6"
+                    }
+                ],
+                "2023-02-28": [
+                    {
+                        "model": "huawei cloud aom",
+                        "version": "huawei cloud aom 1.7.1.4"
+                    }
+                ],
+                "2023-03-28": [
+                    {
+                        "model": "huawei cloud apm",
+                        "version": "huawei cloud apm 1.10.0"
+                    },
+                    {
+                        "model": "huawei cloud dcs",
+                        "version": "huawei cloud dcs 1.10.0"
+                    },
+                    {
+                        "model": "huawei cloud stack rams",
+                        "version": "huawei cloud stack rams 8.2.1"
+                    }
+                ],
+                "2023-03-29": [
+                    {
+                        "model": "huawei cloud aom",
+                        "version": "huawei cloud aom 1.10.0"
+                    },
+                    {
+                        "model": "huawei cloud bcs",
+                        "version": "huawei cloud bcs 1.10.0"
+                    }
+                ],
+                "2023-03-31": [
+                    {
+                        "model": "huawei cloud dcs",
+                        "version": "huawei cloud dcs 1.8.0.2"
+                    }
+                ],
+                "2023-04-27": [
+                    {
+                        "model": "huawei cloud aom",
+                        "version": "huawei cloud aom 1.10.0.1"
+                    },
+                    {
+                        "model": "huawei cloud apm",
+                        "version": "huawei cloud apm 1.10.0.1"
+                    },
+                    {
+                        "model": "huawei cloud bcs",
+                        "version": "huawei cloud bcs 1.10.0.1"
+                    },
+                    {
+                        "model": "huawei cloud dcs",
+                        "version": "huawei cloud dcs 1.10.0.1"
+                    }
+                ],
+                "2023-04-28": [
+                    {
+                        "model": "huawei cloud stack deploy",
+                        "version": "huawei cloud stack deploy 8.1.1.spc301"
+                    }
+                ],
+                "2023-05-08": [
+                    {
+                        "model": "huawei cloud stack rams",
+                        "version": "huawei cloud stack rams 8.2.1.spc1"
+                    }
+                ],
+                "2023-05-30": [
+                    {
+                        "model": "huawei cloud aom",
+                        "version": "huawei cloud aom 1.10.5"
+                    },
+                    {
+                        "model": "huawei cloud bcs",
+                        "version": "huawei cloud bcs 1.10.5"
+                    }
+                ],
+                "2023-07-07": [
+                    {
+                        "model": "huawei cloud aom",
+                        "version": "huawei cloud aom 1.10.5.1"
+                    }
+                ],
+                "2023-08-08": [
+                    {
+                        "model": "huawei cloud stack update",
+                        "version": "huawei cloud stack update 6.5.1.spc107"
+                    }
+                ],
+                "2023-09-22": [
+                    {
+                        "model": "huawei cloud dcs",
+                        "version": "huawei cloud dcs 1.10.5.1"
+                    }
+                ],
+                "2023-09-25": [
+                    {
+                        "model": "huawei cloud stack rams",
+                        "version": "huawei cloud stack rams 8.3.0"
+                    }
+                ],
+                "2023-09-26": [
+                    {
+                        "model": "huawei cloud bcs",
+                        "version": "huawei cloud bcs 2.0.0"
+                    }
+                ],
+                "2023-10-28": [
+                    {
+                        "model": "huawei cloud bcs",
+                        "version": "huawei cloud bcs 2.0.5"
+                    }
+                ],
+                "2023-10-30": [
+                    {
+                        "model": "huawei cloud aom",
+                        "version": "huawei cloud aom 2.0.5"
+                    },
+                    {
+                        "model": "huawei cloud apm",
+                        "version": "huawei cloud apm 2.0.5"
+                    },
+                    {
+                        "model": "huawei cloud dcs",
+                        "version": "huawei cloud dcs 2.0.5"
+                    }
+                ],
+                "2023-10-31": [
+                    {
+                        "model": "huawei cloud aom",
+                        "version": "huawei cloud aom 1.10.0.2"
+                    }
+                ],
+                "2023-11-06": [
+                    {
+                        "model": "huawei cloud aom",
+                        "version": "huawei cloud aom 1.10.5.2"
+                    }
+                ],
+                "2023-11-23": [
+                    {
+                        "model": "huawei cloud dcs",
+                        "version": "huawei cloud dcs 1.10.5.2"
+                    }
+                ],
+                "2023-11-29": [
+                    {
+                        "model": "huawei cloud aom",
+                        "version": "huawei cloud aom 1.10.0.3"
+                    }
+                ],
+                "2023-12-07": [
+                    {
+                        "model": "huawei cloud dcs",
+                        "version": "huawei cloud dcs 2.0.0.1"
+                    }
+                ],
+                "2023-12-14": [
+                    {
+                        "model": "huawei cloud dcs",
+                        "version": "huawei cloud dcs 1.10.0.2"
+                    }
+                ],
+                "2024-01-17": [
+                    {
+                        "model": "huawei cloud stack rams",
+                        "version": "huawei cloud stack rams 8.3.0.cp001"
+                    }
+                ],
+                "2024-01-30": [
+                    {
+                        "model": "huawei cloud aom",
+                        "version": "huawei cloud aom 1.10.5.3"
+                    }
+                ],
+                "2024-02-04": [
+                    {
+                        "model": "huawei cloud dcs",
+                        "version": "huawei cloud dcs 1.10.5.3"
+                    }
+                ],
+                "2024-04-03": [
+                    {
+                        "model": "huawei cloud stack rams",
+                        "version": "huawei cloud stack rams 8.3.0.spc020"
+                    }
+                ],
+                "2024-04-18": [
+                    {
+                        "model": "huawei cloud dcs",
+                        "version": "huawei cloud dcs 1.10.5.4"
+                    }
+                ],
+                "2024-04-25": [
+                    {
+                        "model": "huawei cloud stack rams",
+                        "version": "huawei cloud stack rams 8.3.1"
+                    }
+                ],
+                "2024-04-26": [
+                    {
+                        "model": "huawei cloud bcs",
+                        "version": "huawei cloud bcs 2.1.0"
+                    },
+                    {
+                        "model": "huawei cloud dcs",
+                        "version": "huawei cloud dcs 2.1.0"
+                    }
+                ],
+                "2024-04-27": [
+                    {
+                        "model": "huawei cloud aom",
+                        "version": "huawei cloud aom 2.1.0"
+                    },
+                    {
+                        "model": "huawei cloud apm",
+                        "version": "huawei cloud apm 2.1.0"
+                    }
+                ],
+                "2024-04-29": [
+                    {
+                        "model": "huawei cloud stack",
+                        "version": "huawei cloud stack 8.3.1"
+                    }
+                ],
+                "2024-04-30": [
+                    {
+                        "model": "huawei cloud aom",
+                        "version": "huawei cloud aom 2.1.5"
+                    },
+                    {
+                        "model": "huawei cloud apm",
+                        "version": "huawei cloud apm 2.1.5"
+                    }
+                ],
+                "2024-05-01": [
+                    {
+                        "model": "huawei cloud bcs",
+                        "version": "huawei cloud bcs 2.1.5"
+                    },
+                    {
+                        "model": "huawei cloud dcs",
+                        "version": "huawei cloud dcs 2.1.5"
+                    }
+                ]
+            }
+        }
+    },
+    "13": {
+        "s5720-12tp-li-ac": {
+            "sample": [
+                {
+                    "version": "5.170",
+                    "lmt": "2018-05-25",
+                    "lmt_dict": {
+                        "2018-05-25 07-55-34": [
+                            "/copyright/info.js"
+                        ]
+                    },
+                    "index": "cydar_0524_http_1-11@cydar_0524_http_1-11_30410",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2020-08-26": [
+                    {
+                        "model": "c2120-10-i-p",
+                        "version": "8.1.1"
+                    },
+                    {
+                        "model": "c2120-10-l-p",
+                        "version": "8.1.1"
+                    },
+                    {
+                        "model": "c2150-10-i-p",
+                        "version": "8.1.1"
+                    },
+                    {
+                        "model": "c3020-10-i-p",
+                        "version": "8.1.1"
+                    },
+                    {
+                        "model": "c3050-10-i-p",
+                        "version": "8.1.1"
+                    },
+                    {
+                        "model": "c3220-10-i-p",
+                        "version": "8.1.1"
+                    },
+                    {
+                        "model": "c3250-10-i-p",
+                        "version": "8.1.1"
+                    },
+                    {
+                        "model": "d2120-10-i-p",
+                        "version": "8.1.1"
+                    },
+                    {
+                        "model": "d2120-10-l-p",
+                        "version": "8.1.1"
+                    },
+                    {
+                        "model": "d2150-10-i-p",
+                        "version": "8.1.1"
+                    },
+                    {
+                        "model": "d3020-10-i-p",
+                        "version": "8.1.1"
+                    },
+                    {
+                        "model": "d3050-10-i-p",
+                        "version": "8.1.1"
+                    },
+                    {
+                        "model": "d3220-10-i-p",
+                        "version": "8.1.1"
+                    },
+                    {
+                        "model": "d3250-10-i-p",
+                        "version": "8.1.1"
+                    }
+                ],
+                "2021-01-22": [
+                    {
+                        "model": "d2020-10-i-p",
+                        "version": "8.2.0"
+                    },
+                    {
+                        "model": "d2050-10-i-p",
+                        "version": "8.2.0"
+                    },
+                    {
+                        "model": "m7641-10-z23-rt",
+                        "version": "8.2.0"
+                    }
+                ],
+                "2021-03-26": [
+                    {
+                        "model": "c2120-10-i-p",
+                        "version": "8.1.1.spc119"
+                    },
+                    {
+                        "model": "c2120-10-l-p",
+                        "version": "8.1.1.spc119"
+                    },
+                    {
+                        "model": "c2150-10-i-p",
+                        "version": "8.1.1.spc119"
+                    },
+                    {
+                        "model": "c3020-10-i-p",
+                        "version": "8.1.1.spc119"
+                    },
+                    {
+                        "model": "c3050-10-i-p",
+                        "version": "8.1.1.spc119"
+                    },
+                    {
+                        "model": "c3220-10-i-p",
+                        "version": "8.1.1.spc119"
+                    },
+                    {
+                        "model": "c3250-10-i-p",
+                        "version": "8.1.1.spc119"
+                    },
+                    {
+                        "model": "d2120-10-i-p",
+                        "version": "8.1.1.spc119"
+                    },
+                    {
+                        "model": "d2120-10-l-p",
+                        "version": "8.1.1.spc119"
+                    },
+                    {
+                        "model": "d2150-10-i-p",
+                        "version": "8.1.1.spc119"
+                    },
+                    {
+                        "model": "d3020-10-i-p",
+                        "version": "8.1.1.spc119"
+                    },
+                    {
+                        "model": "d3050-10-i-p",
+                        "version": "8.1.1.spc119"
+                    },
+                    {
+                        "model": "d3220-10-i-p",
+                        "version": "8.1.1.spc119"
+                    },
+                    {
+                        "model": "d3250-10-i-p",
+                        "version": "8.1.1.spc119"
+                    }
+                ],
+                "2021-06-22": [
+                    {
+                        "model": "c2120-10-i-p",
+                        "version": "c2120-10-i-p 8.1.1.spc125"
+                    },
+                    {
+                        "model": "c2120-10-l-p",
+                        "version": "c2120-10-l-p 8.1.1.spc125"
+                    },
+                    {
+                        "model": "c2150-10-i-p",
+                        "version": "c2150-10-i-p 8.1.1.spc125"
+                    },
+                    {
+                        "model": "c3020-10-i-p",
+                        "version": "c3020-10-i-p 8.1.1.spc125"
+                    },
+                    {
+                        "model": "c3050-10-i-p",
+                        "version": "c3050-10-i-p 8.1.1.spc125"
+                    },
+                    {
+                        "model": "c3220-10-i-p",
+                        "version": "c3220-10-i-p 8.1.1.spc125"
+                    },
+                    {
+                        "model": "c3250-10-i-p",
+                        "version": "c3250-10-i-p 8.1.1.spc125"
+                    },
+                    {
+                        "model": "d2120-10-i-p",
+                        "version": "d2120-10-i-p 8.1.1.spc125"
+                    },
+                    {
+                        "model": "d2120-10-l-p",
+                        "version": "d2120-10-l-p 8.1.1.spc125"
+                    },
+                    {
+                        "model": "d2150-10-i-p",
+                        "version": "d2150-10-i-p 8.1.1.spc125"
+                    },
+                    {
+                        "model": "d3020-10-i-p",
+                        "version": "d3020-10-i-p 8.1.1.spc125"
+                    },
+                    {
+                        "model": "d3050-10-i-p",
+                        "version": "d3050-10-i-p 8.1.1.spc125"
+                    },
+                    {
+                        "model": "d3220-10-i-p",
+                        "version": "d3220-10-i-p 8.1.1.spc125"
+                    },
+                    {
+                        "model": "d3250-10-i-p",
+                        "version": "d3250-10-i-p 8.1.1.spc125"
+                    }
+                ],
+                "2021-07-08": [
+                    {
+                        "model": "c2120-10-i-p",
+                        "version": "8.2.0.spc109"
+                    },
+                    {
+                        "model": "c2120-10-l-p",
+                        "version": "8.2.0.spc109"
+                    },
+                    {
+                        "model": "c2150-10-i-p",
+                        "version": "8.2.0.spc109"
+                    },
+                    {
+                        "model": "c3020-10-i-p",
+                        "version": "8.2.0.spc109"
+                    },
+                    {
+                        "model": "c3050-10-i-p",
+                        "version": "8.2.0.spc109"
+                    },
+                    {
+                        "model": "c3220-10-i-p",
+                        "version": "8.2.0.spc109"
+                    },
+                    {
+                        "model": "c3250-10-i-p",
+                        "version": "8.2.0.spc109"
+                    },
+                    {
+                        "model": "d2020-10-i-p",
+                        "version": "8.2.0.spc109"
+                    },
+                    {
+                        "model": "d2050-10-i-p",
+                        "version": "8.2.0.spc109"
+                    },
+                    {
+                        "model": "d2120-10-i-p",
+                        "version": "8.2.0.spc109"
+                    },
+                    {
+                        "model": "d2120-10-l-p",
+                        "version": "8.2.0.spc109"
+                    },
+                    {
+                        "model": "d2150-10-i-p",
+                        "version": "8.2.0.spc109"
+                    },
+                    {
+                        "model": "d3020-10-i-p",
+                        "version": "8.2.0.spc109"
+                    },
+                    {
+                        "model": "d3050-10-i-p",
+                        "version": "8.2.0.spc109"
+                    },
+                    {
+                        "model": "d3220-10-i-p",
+                        "version": "8.2.0.spc109"
+                    },
+                    {
+                        "model": "d3250-10-i-p",
+                        "version": "8.2.0.spc109"
+                    },
+                    {
+                        "model": "m7641-10-z23-rt",
+                        "version": "8.2.0.spc109"
+                    }
+                ],
+                "2021-08-18": [
+                    {
+                        "model": "c2120-10-i-p",
+                        "version": "8.1.1.spc123"
+                    },
+                    {
+                        "model": "c2120-10-l-p",
+                        "version": "8.1.1.spc123"
+                    },
+                    {
+                        "model": "c2150-10-i-p",
+                        "version": "8.1.1.spc123"
+                    },
+                    {
+                        "model": "c3020-10-i-p",
+                        "version": "8.1.1.spc123"
+                    },
+                    {
+                        "model": "c3050-10-i-p",
+                        "version": "8.1.1.spc123"
+                    },
+                    {
+                        "model": "c3220-10-i-p",
+                        "version": "8.1.1.spc123"
+                    },
+                    {
+                        "model": "c3250-10-i-p",
+                        "version": "8.1.1.spc123"
+                    },
+                    {
+                        "model": "d2120-10-i-p",
+                        "version": "8.1.1.spc123"
+                    },
+                    {
+                        "model": "d2120-10-l-p",
+                        "version": "8.1.1.spc123"
+                    },
+                    {
+                        "model": "d2150-10-i-p",
+                        "version": "8.1.1.spc123"
+                    },
+                    {
+                        "model": "d3020-10-i-p",
+                        "version": "8.1.1.spc123"
+                    },
+                    {
+                        "model": "d3050-10-i-p",
+                        "version": "8.1.1.spc123"
+                    },
+                    {
+                        "model": "d3220-10-i-p",
+                        "version": "8.1.1.spc123"
+                    },
+                    {
+                        "model": "d3250-10-i-p",
+                        "version": "8.1.1.spc123"
+                    }
+                ],
+                "2021-09-07": [
+                    {
+                        "model": "c2150-10-li-pv",
+                        "version": "9.0.0"
+                    },
+                    {
+                        "model": "c3050-10-li-pv",
+                        "version": "9.0.0"
+                    },
+                    {
+                        "model": "d2120-10-li-pv",
+                        "version": "9.0.0"
+                    },
+                    {
+                        "model": "d2150-10-li-pv",
+                        "version": "9.0.0"
+                    },
+                    {
+                        "model": "d3020-10-li-pv",
+                        "version": "9.0.0"
+                    },
+                    {
+                        "model": "d3050-10-li-pv",
+                        "version": "9.0.0"
+                    }
+                ],
+                "2022-01-17": [
+                    {
+                        "model": "c2150-10-li-pv",
+                        "version": "9.0.0.spc307"
+                    },
+                    {
+                        "model": "c3050-10-li-pv",
+                        "version": "9.0.0.spc307"
+                    },
+                    {
+                        "model": "d2120-10-li-pv",
+                        "version": "9.0.0.spc307"
+                    },
+                    {
+                        "model": "d2150-10-li-pv",
+                        "version": "9.0.0.spc307"
+                    },
+                    {
+                        "model": "d3020-10-li-pv",
+                        "version": "9.0.0.spc307"
+                    },
+                    {
+                        "model": "d3050-10-li-pv",
+                        "version": "9.0.0.spc307"
+                    }
+                ],
+                "2022-02-07": [
+                    {
+                        "model": "d2020-10-i-p",
+                        "version": "8.2.0.spc130"
+                    },
+                    {
+                        "model": "d2050-10-i-p",
+                        "version": "8.2.0.spc130"
+                    },
+                    {
+                        "model": "d2120-10-i-p",
+                        "version": "8.2.0.spc130"
+                    },
+                    {
+                        "model": "d2150-10-i-p",
+                        "version": "8.2.0.spc130"
+                    },
+                    {
+                        "model": "d3020-10-i-p",
+                        "version": "8.2.0.spc130"
+                    },
+                    {
+                        "model": "d3050-10-i-p",
+                        "version": "8.2.0.spc130"
+                    },
+                    {
+                        "model": "d3220-10-i-p",
+                        "version": "8.2.0.spc130"
+                    },
+                    {
+                        "model": "d3250-10-i-p",
+                        "version": "8.2.0.spc130"
+                    },
+                    {
+                        "model": "m7641-10-z23-rt",
+                        "version": "8.2.0.spc130"
+                    }
+                ],
+                "2022-05-30": [
+                    {
+                        "model": "c2150-10-li-pv",
+                        "version": "10.0.rc11.spc100"
+                    },
+                    {
+                        "model": "c3050-10-li-pv",
+                        "version": "10.0.rc11.spc100"
+                    },
+                    {
+                        "model": "d2120-10-li-pv",
+                        "version": "10.0.rc11.spc100"
+                    },
+                    {
+                        "model": "d2150-10-li-pv",
+                        "version": "10.0.rc11.spc100"
+                    },
+                    {
+                        "model": "d3020-10-li-pv",
+                        "version": "10.0.rc11.spc100"
+                    },
+                    {
+                        "model": "d3050-10-li-pv",
+                        "version": "10.0.rc11.spc100"
+                    }
+                ],
+                "2022-07-16": [
+                    {
+                        "model": "d3020-10-i-p",
+                        "version": "8.2.0.spc136"
+                    },
+                    {
+                        "model": "d3050-10-i-p",
+                        "version": "8.2.0.spc136"
+                    }
+                ],
+                "2022-08-07": [
+                    {
+                        "model": "d2120-10-li-pv",
+                        "version": "10.0.rc11.spc200"
+                    },
+                    {
+                        "model": "d3050-10-li-pv",
+                        "version": "10.0.rc11.spc200"
+                    }
+                ],
+                "2022-08-18": [
+                    {
+                        "model": "c2150-10-li-pv",
+                        "version": "10.0.rc11.spc201"
+                    },
+                    {
+                        "model": "c3050-10-li-pv",
+                        "version": "10.0.rc11.spc201"
+                    },
+                    {
+                        "model": "d2120-10-li-pv",
+                        "version": "10.0.rc11.spc201"
+                    },
+                    {
+                        "model": "d2150-10-li-pv",
+                        "version": "10.0.rc11.spc201"
+                    },
+                    {
+                        "model": "d3020-10-li-pv",
+                        "version": "10.0.rc11.spc201"
+                    },
+                    {
+                        "model": "d3050-10-li-pv",
+                        "version": "10.0.rc11.spc201"
+                    }
+                ],
+                "2022-09-05": [
+                    {
+                        "model": "c2120-10-i-p",
+                        "version": "c2120-10-i-p 8.2.0.spc139"
+                    },
+                    {
+                        "model": "c2120-10-l-p",
+                        "version": "c2120-10-l-p 8.2.0.spc139"
+                    },
+                    {
+                        "model": "c2150-10-i-p",
+                        "version": "c2150-10-i-p 8.2.0.spc139"
+                    },
+                    {
+                        "model": "c3020-10-i-p",
+                        "version": "c3020-10-i-p 8.2.0.spc139"
+                    },
+                    {
+                        "model": "c3050-10-i-p",
+                        "version": "c3050-10-i-p 8.2.0.spc139"
+                    },
+                    {
+                        "model": "c3220-10-i-p",
+                        "version": "c3220-10-i-p 8.2.0.spc139"
+                    },
+                    {
+                        "model": "c3250-10-i-p",
+                        "version": "c3250-10-i-p 8.2.0.spc139"
+                    },
+                    {
+                        "model": "d2120-10-i-p",
+                        "version": "d2120-10-i-p 8.2.0.spc139"
+                    },
+                    {
+                        "model": "d2120-10-l-p",
+                        "version": "d2120-10-l-p 8.2.0.spc139"
+                    },
+                    {
+                        "model": "d2150-10-i-p",
+                        "version": "d2150-10-i-p 8.2.0.spc139"
+                    },
+                    {
+                        "model": "d3020-10-i-p",
+                        "version": "d3020-10-i-p 8.2.0.spc139"
+                    },
+                    {
+                        "model": "d3050-10-i-p",
+                        "version": "d3050-10-i-p 8.2.0.spc139"
+                    },
+                    {
+                        "model": "d3220-10-i-p",
+                        "version": "d3220-10-i-p 8.2.0.spc139"
+                    },
+                    {
+                        "model": "d3250-10-i-p",
+                        "version": "d3250-10-i-p 8.2.0.spc139"
+                    }
+                ],
+                "2022-11-07": [
+                    {
+                        "model": "c2150-10-li-pv",
+                        "version": "10.0.0"
+                    },
+                    {
+                        "model": "c3050-10-li-pv",
+                        "version": "10.0.0"
+                    },
+                    {
+                        "model": "d2120-10-li-pv",
+                        "version": "10.0.0"
+                    },
+                    {
+                        "model": "d2150-10-li-pv",
+                        "version": "10.0.0"
+                    },
+                    {
+                        "model": "d3020-10-li-pv",
+                        "version": "10.0.0"
+                    },
+                    {
+                        "model": "d3050-10-li-pv",
+                        "version": "10.0.0"
+                    }
+                ],
+                "2023-01-01": [
+                    {
+                        "model": "c3050-10-li-pv",
+                        "version": "c3050-10-li-pv 10.0.0.spc100"
+                    }
+                ],
+                "2023-02-01": [
+                    {
+                        "model": "c2150-10-li-pv",
+                        "version": "c2150-10-li-pv 10.0.0.spc200"
+                    },
+                    {
+                        "model": "c3050-10-li-pv",
+                        "version": "c3050-10-li-pv 10.0.0.spc200"
+                    },
+                    {
+                        "model": "d2120-10-li-pv",
+                        "version": "d2120-10-li-pv 10.0.0.spc200"
+                    },
+                    {
+                        "model": "d2150-10-li-pv",
+                        "version": "d2150-10-li-pv 10.0.0.spc200"
+                    },
+                    {
+                        "model": "d3020-10-li-pv",
+                        "version": "d3020-10-li-pv 10.0.0.spc200"
+                    },
+                    {
+                        "model": "d3050-10-li-pv",
+                        "version": "d3050-10-li-pv 10.0.0.spc200"
+                    }
+                ]
+            }
+        }
+    },
+    "14": {
+        "s6720-30c-ei-24s-dc": {
+            "sample": [
+                {
+                    "version": "5.170",
+                    "lmt": "2021-08-18",
+                    "lmt_dict": {
+                        "2021-08-18 09-38-10": [
+                            "/copyright/info.js"
+                        ],
+                        "2021-08-18 09-38-12": [
+                            "/open_source/jquery/jquery.js"
+                        ],
+                        "2021-08-18 09-37-48": [
+                            "/simple/style/default/image/IE.png",
+                            "/simple/style/default/image/Firefox.png",
+                            "/simple/style/default/image/Chrome.png"
+                        ]
+                    },
+                    "index": "cydar_0524_http_1-11@cydar_0524_http_1-11_30318",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2020-09-28": [
+                    {
+                        "model": "c2120-10-lu",
+                        "version": "8.0.1.spc129"
+                    },
+                    {
+                        "model": "c212d-10-fi",
+                        "version": "8.0.1.spc129"
+                    },
+                    {
+                        "model": "c212d-10-lu",
+                        "version": "8.0.1.spc129"
+                    },
+                    {
+                        "model": "c215d-10-i-pu",
+                        "version": "8.0.1.spc129"
+                    },
+                    {
+                        "model": "c215d-10-iu",
+                        "version": "8.0.1.spc129"
+                    },
+                    {
+                        "model": "c322d-10-i",
+                        "version": "8.0.1.spc129"
+                    },
+                    {
+                        "model": "c322d-10-iu",
+                        "version": "8.0.1.spc129"
+                    },
+                    {
+                        "model": "c325d-10-i",
+                        "version": "8.0.1.spc129"
+                    },
+                    {
+                        "model": "c325d-10-iu",
+                        "version": "8.0.1.spc129"
+                    },
+                    {
+                        "model": "m2121-10-el-sf",
+                        "version": "8.0.1.spc129"
+                    },
+                    {
+                        "model": "m3220-10-ei-sf",
+                        "version": "8.0.1.spc129"
+                    }
+                ]
+            }
+        },
+        "s5320-36c-ei-28s-dc": {
+            "sample": [
+                {
+                    "version": "5.170",
+                    "lmt": "2017-02-16",
+                    "lmt_dict": {
+                        "2017-02-16 13-30-30": [
+                            "/copyright/info.js"
+                        ]
+                    },
+                    "index": "cydar_0524_http_1-11@cydar_0524_http_1-11_30341",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2020-09-28": [
+                    {
+                        "model": "c2120-10-lu",
+                        "version": "8.0.1.spc129"
+                    },
+                    {
+                        "model": "c212d-10-fi",
+                        "version": "8.0.1.spc129"
+                    },
+                    {
+                        "model": "c212d-10-lu",
+                        "version": "8.0.1.spc129"
+                    },
+                    {
+                        "model": "c215d-10-i-pu",
+                        "version": "8.0.1.spc129"
+                    },
+                    {
+                        "model": "c215d-10-iu",
+                        "version": "8.0.1.spc129"
+                    },
+                    {
+                        "model": "c322d-10-i",
+                        "version": "8.0.1.spc129"
+                    },
+                    {
+                        "model": "c322d-10-iu",
+                        "version": "8.0.1.spc129"
+                    },
+                    {
+                        "model": "c325d-10-i",
+                        "version": "8.0.1.spc129"
+                    },
+                    {
+                        "model": "c325d-10-iu",
+                        "version": "8.0.1.spc129"
+                    },
+                    {
+                        "model": "m2121-10-el-sf",
+                        "version": "8.0.1.spc129"
+                    },
+                    {
+                        "model": "m3220-10-ei-sf",
+                        "version": "8.0.1.spc129"
+                    }
+                ]
+            }
+        },
+        "s6720-30c-ei-24s-ac": {
+            "sample": [
+                {
+                    "version": "5.170",
+                    "lmt": "2020-05-14",
+                    "lmt_dict": {
+                        "2020-05-14 11-49-50": [
+                            "/copyright/info.js",
+                            "/simple/style/default/image/IE.png",
+                            "/simple/style/default/image/Firefox.png",
+                            "/simple/style/default/image/Chrome.png"
+                        ]
+                    },
+                    "index": "cydar_0524_http_1-11@cydar_0524_http_1-11_30364",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2020-09-28": [
+                    {
+                        "model": "c2120-10-lu",
+                        "version": "8.0.1.spc129"
+                    },
+                    {
+                        "model": "c212d-10-fi",
+                        "version": "8.0.1.spc129"
+                    },
+                    {
+                        "model": "c212d-10-lu",
+                        "version": "8.0.1.spc129"
+                    },
+                    {
+                        "model": "c215d-10-i-pu",
+                        "version": "8.0.1.spc129"
+                    },
+                    {
+                        "model": "c215d-10-iu",
+                        "version": "8.0.1.spc129"
+                    },
+                    {
+                        "model": "c322d-10-i",
+                        "version": "8.0.1.spc129"
+                    },
+                    {
+                        "model": "c322d-10-iu",
+                        "version": "8.0.1.spc129"
+                    },
+                    {
+                        "model": "c325d-10-i",
+                        "version": "8.0.1.spc129"
+                    },
+                    {
+                        "model": "c325d-10-iu",
+                        "version": "8.0.1.spc129"
+                    },
+                    {
+                        "model": "m2121-10-el-sf",
+                        "version": "8.0.1.spc129"
+                    },
+                    {
+                        "model": "m3220-10-ei-sf",
+                        "version": "8.0.1.spc129"
+                    }
+                ]
+            }
+        }
+    },
+    "50": {
+        "ipc6225-vrz": {
+            "sample": [
+                {
+                    "version": "ipc v200r003c30spc202",
+                    "lmt": "2018-11-12",
+                    "lmt_dict": {
+                        "2018-06-27 02-57-59": [
+                            "/js/common/jquery.js",
+                            "/js/loadLang.js",
+                            "/js/common/common.js",
+                            "/immutable/basic/core.js",
+                            "/immutable/droplist/Droplist.js",
+                            "/immutable/dialog/Dialog.js",
+                            "/js/common/indexLanguage.js",
+                            "/resources/default/css/basic.css",
+                            "/immutable/droplist/Droplist.css",
+                            "/immutable/dialog/Dialog.css",
+                            "/resources/default/css/common.css",
+                            "/immutable/basic/style.css",
+                            "/resources/default/css/login.css",
+                            "/resources/default/images/login/loginbg.png"
+                        ],
+                        "2018-11-12 01-15-48": [
+                            "/data/ConfigData.js"
+                        ]
+                    },
+                    "index": "cydar_0524_http_1-11@cydar_0524_http_1-11_30512",
+                    "label_flag": "none",
+                    "lmt_type": "Far"
+                }
+            ],
+            "ERT_list": {
+                "2017-11-16": [
+                    {
+                        "model": "ipc6225-vrz",
+                        "version": "v200r003c00spc100"
+                    }
+                ],
+                "2018-02-09": [
+                    {
+                        "model": "ipc6225-vrz",
+                        "version": "v200r003c30spc100"
+                    }
+                ],
+                "2018-04-21": [
+                    {
+                        "model": "ipc6225-vrz",
+                        "version": "v200r003c30spc200"
+                    }
+                ],
+                "2019-12-09": [
+                    {
+                        "model": "ipc6225-vrz",
+                        "version": "v200r003c30spc259"
+                    }
+                ],
+                "2021-04-30": [
+                    {
+                        "model": "ipc6225-vrz",
+                        "version": "v200r003c30spc279"
+                    }
+                ]
+            }
+        },
+        "ipc6625-z30-p": {
+            "sample": [
+                {
+                    "version": "ipc v200r003c30spc202",
+                    "lmt": "2018-11-16",
+                    "lmt_dict": {
+                        "2018-06-27 02-57-59": [
+                            "/js/common/jquery.js",
+                            "/js/loadLang.js",
+                            "/js/common/common.js",
+                            "/immutable/basic/core.js",
+                            "/immutable/droplist/Droplist.js",
+                            "/immutable/dialog/Dialog.js",
+                            "/js/common/indexLanguage.js",
+                            "/resources/default/css/basic.css",
+                            "/immutable/droplist/Droplist.css",
+                            "/immutable/dialog/Dialog.css",
+                            "/resources/default/css/common.css",
+                            "/immutable/basic/style.css",
+                            "/resources/default/css/login.css",
+                            "/resources/default/images/login/loginbg.png"
+                        ],
+                        "2018-11-16 10-02-08": [
+                            "/data/ConfigData.js"
+                        ]
+                    },
+                    "index": "cydar_0524_http_1-11@cydar_0524_http_1-11_30530",
+                    "label_flag": "none",
+                    "lmt_type": "Far"
+                }
+            ],
+            "ERT_list": {
+                "2017-11-16": [
+                    {
+                        "model": "ipc6625-z30-p",
+                        "version": "v200r003c00spc100"
+                    }
+                ],
+                "2018-02-09": [
+                    {
+                        "model": "ipc6625-z30-p",
+                        "version": "v200r003c30spc100"
+                    }
+                ],
+                "2018-04-21": [
+                    {
+                        "model": "ipc6625-z30-p",
+                        "version": "v200r003c30spc200"
+                    }
+                ],
+                "2019-12-09": [
+                    {
+                        "model": "ipc6625-z30-p",
+                        "version": "v200r003c30spc259"
+                    }
+                ],
+                "2021-04-30": [
+                    {
+                        "model": "ipc6625-z30-p",
+                        "version": "v200r003c30spc279"
+                    }
+                ]
+            }
+        }
+    },
+    "54": {
+        "c6620-10-z33": {
+            "sample": [
+                {
+                    "version": "sdc 8.0.2.spc189",
+                    "lmt": "2023-11-07",
+                    "lmt_dict": {
+                        "2023-11-07 10-05-08": [
+                            "/resource/common/md5.js?202308261703380553184798",
+                            "/resource/common/RndSecurityFormat.js?202308261703380553184798",
+                            "/resource/common/jquery.min.js?202308261703380553184798",
+                            "/resource/common/safelogin.js?202308261703380553184798",
+                            "/Cuscss/login.css?202308261703380553184798",
+                            "/images/logo_digicel.jpg",
+                            "/images/logo_viettel.jpg",
+                            "/images/logo_ts.jpg",
+                            "/images/pic.jpg",
+                            "/images/logo3bb.gif",
+                            "/images/logo3bbwifi6.gif",
+                            "/images/logo_MA.gif",
+                            "/images/logo_antel.gif",
+                            "/images/logo.gif",
+                            "/images/logo_pldt.gif",
+                            "/images/logo_singtel.gif",
+                            "/images/logo_cnt.gif",
+                            "/images/logo_tm.gif",
+                            "/images/logo_clar.gif",
+                            "/images/logo_Oro.gif"
+                        ]
+                    },
+                    "index": "cydar_0524_http_1-11@cydar_0524_http_1-11_30414",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2020-09-28": [
+                    {
+                        "model": "c6620-10-z33",
+                        "version": "8.0.1.spc129"
+                    }
+                ],
+                "2021-04-23": [
+                    {
+                        "model": "c6620-10-z33",
+                        "version": "8.0.2.spc131"
+                    }
+                ],
+                "2022-04-15": [
+                    {
+                        "model": "c6620-10-z33",
+                        "version": "8.0.2.spc189"
+                    }
+                ],
+                "2024-04-05": [
+                    {
+                        "model": "c6620-10-z33",
+                        "version": "c6620-10-z33 8.0.2.spc259"
+                    }
+                ]
+            }
+        }
+    },
+    "56": {
+        "x6781-z37": {
+            "sample": [
+                {
+                    "version": "ipc v500r019c20",
+                    "lmt": "2018-09-19",
+                    "lmt_dict": {
+                        "2018-08-21 08-15-21": [
+                            "/js/common/jquery.js",
+                            "/js/loadLang.js",
+                            "/js/common/commonFunction.js",
+                            "/js/common/common.js",
+                            "/immutable/basic/core.js",
+                            "/immutable/droplist/Droplist.js",
+                            "/immutable/dialog/Dialog.js",
+                            "/js/common/indexLanguage.js",
+                            "/resources/default/images/login/loginbg.png"
+                        ],
+                        "2018-09-19 14-42-17": [
+                            "/data/ConfigData.js"
+                        ]
+                    },
+                    "index": "inner_internet_4@inner_internet4_7290",
+                    "label_flag": "none",
+                    "lmt_type": "Far"
+                }
+            ],
+            "ERT_list": {
+                "2018-11-22": [
+                    {
+                        "model": "x6781-z37",
+                        "version": "v500r019c20spc100"
+                    }
+                ],
+                "2019-03-25": [
+                    {
+                        "model": "x6781-z37",
+                        "version": "v500r019c20spc109"
+                    }
+                ],
+                "2019-09-06": [
+                    {
+                        "model": "x6781-z37",
+                        "version": "v500r019c60spc109"
+                    }
+                ],
+                "2019-12-21": [
+                    {
+                        "model": "x6781-z37",
+                        "version": "v500r019c60spc219"
+                    }
+                ],
+                "2020-09-08": [
+                    {
+                        "model": "x6781-z37",
+                        "version": "v500r019c60spc259"
+                    }
+                ],
+                "2021-03-08": [
+                    {
+                        "model": "x6781-z37",
+                        "version": "v500r019c60spc289"
+                    }
+                ],
+                "2021-03-26": [
+                    {
+                        "model": "x6781-z37",
+                        "version": "8.0.2.spc119"
+                    }
+                ],
+                "2022-04-15": [
+                    {
+                        "model": "x6781-z37",
+                        "version": "8.0.2.spc189"
+                    }
+                ]
+            }
+        }
+    },
+    "122": {
+        "s7706": {
+            "sample": [
+                {
+                    "version": "128.254",
+                    "lmt": "2022-11-02",
+                    "lmt_dict": {
+                        "2022-11-02 10-20-52": [
+                            "/copyright/info.js"
+                        ],
+                        "2022-11-02 10-20-54": [
+                            "/open_source/jquery/jquery.js"
+                        ],
+                        "2022-11-02 10-20-36": [
+                            "/simple/style/default/image/IE.png",
+                            "/simple/style/default/image/Firefox.png",
+                            "/simple/style/default/image/Chrome.png",
+                            "/simple/style/default/image/focusedOption.png"
+                        ]
+                    },
+                    "index": "cydar_0524_http_1-11@cydar_0524_http_1-11_30389",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2013-11-22": [
+                    {
+                        "model": "s2700",
+                        "version": "quidway  v100r006c05"
+                    }
+                ],
+                "2015-01-06": [
+                    {
+                        "model": "s1700",
+                        "version": "v100r007c00spc300"
+                    }
+                ],
+                "2015-01-14": [
+                    {
+                        "model": "s1700",
+                        "version": "v100r006c00spc300"
+                    }
+                ],
+                "2016-12-30": [
+                    {
+                        "model": "s2700",
+                        "version": "v200r005sph013"
+                    }
+                ],
+                "2017-01-23": [
+                    {
+                        "model": "s1700",
+                        "version": "v200r009sph003"
+                    }
+                ],
+                "2017-02-25": [
+                    {
+                        "model": "s12700",
+                        "version": "v200r010c00spc600"
+                    }
+                ],
+                "2017-12-29": [
+                    {
+                        "model": "s12700",
+                        "version": "v200r007sph015"
+                    },
+                    {
+                        "model": "s2700",
+                        "version": "v200r007sph015"
+                    }
+                ],
+                "2018-05-31": [
+                    {
+                        "model": "s1700",
+                        "version": "v200r011c10spc600"
+                    },
+                    {
+                        "model": "s1700s2700",
+                        "version": "s1700&amp;s2700 v200r011c10spc600"
+                    },
+                    {
+                        "model": "s2700",
+                        "version": "v200r011c10spc600"
+                    }
+                ],
+                "2018-11-30": [
+                    {
+                        "model": "s2700",
+                        "version": "v200r003sph027"
+                    }
+                ],
+                "2019-12-30": [
+                    {
+                        "model": "s12700",
+                        "version": "v200r011sph015"
+                    }
+                ],
+                "2019-12-31": [
+                    {
+                        "model": "s1700",
+                        "version": "v200r010sph022"
+                    },
+                    {
+                        "model": "s2700",
+                        "version": "v200r010sph022"
+                    }
+                ],
+                "2020-05-15": [
+                    {
+                        "model": "s12700",
+                        "version": "v200r019c10spc500"
+                    },
+                    {
+                        "model": "s1700",
+                        "version": "v200r019c10spc500"
+                    },
+                    {
+                        "model": "s2700",
+                        "version": "v200r019c10spc500"
+                    }
+                ],
+                "2020-12-17": [
+                    {
+                        "model": "s12700",
+                        "version": "v200r013sph015"
+                    }
+                ],
+                "2020-12-30": [
+                    {
+                        "model": "s2700",
+                        "version": "v100r006sph038"
+                    }
+                ],
+                "2021-03-15": [
+                    {
+                        "model": "s12700",
+                        "version": "v200r019sph025"
+                    },
+                    {
+                        "model": "s1700",
+                        "version": "v200r019sph025"
+                    }
+                ],
+                "2021-03-30": [
+                    {
+                        "model": "s12700",
+                        "version": "v200r010sph033"
+                    }
+                ],
+                "2021-06-22": [
+                    {
+                        "model": "s12700",
+                        "version": "v200r013sph021"
+                    },
+                    {
+                        "model": "s1700",
+                        "version": "v200r013sph021"
+                    },
+                    {
+                        "model": "s1700s2700",
+                        "version": "s1700&amp;s2700 v200r013sph021"
+                    },
+                    {
+                        "model": "s2700",
+                        "version": "v200r013sph021"
+                    }
+                ],
+                "2021-07-16": [
+                    {
+                        "model": "s12700",
+                        "version": "v200r019sph033"
+                    },
+                    {
+                        "model": "s1700",
+                        "version": "v200r019sph033"
+                    },
+                    {
+                        "model": "s2700",
+                        "version": "v200r019sph033"
+                    }
+                ],
+                "2021-08-30": [
+                    {
+                        "model": "s12700",
+                        "version": "v200r021c00spc100"
+                    }
+                ],
+                "2021-09-01": [
+                    {
+                        "model": "s1700",
+                        "version": "v200r021c00spc100"
+                    },
+                    {
+                        "model": "s1700s2700",
+                        "version": "s1700&amp;s2700 v200r021c00spc100"
+                    },
+                    {
+                        "model": "s2700",
+                        "version": "v200r021c00spc100"
+                    }
+                ],
+                "2021-09-10": [
+                    {
+                        "model": "s12700",
+                        "version": "v200r019sph038"
+                    }
+                ],
+                "2021-10-30": [
+                    {
+                        "model": "s1700",
+                        "version": "v200r020sph013"
+                    },
+                    {
+                        "model": "s2700",
+                        "version": "v200r020sph013"
+                    }
+                ],
+                "2021-11-05": [
+                    {
+                        "model": "s1700",
+                        "version": "v200r021sph002"
+                    },
+                    {
+                        "model": "s2700",
+                        "version": "v200r021sph002"
+                    }
+                ],
+                "2021-11-08": [
+                    {
+                        "model": "s12700",
+                        "version": "v200r010sph037"
+                    }
+                ],
+                "2021-11-10": [
+                    {
+                        "model": "s12700",
+                        "version": "v200r021sph002"
+                    }
+                ],
+                "2021-11-19": [
+                    {
+                        "model": "s1700",
+                        "version": "v200r019sph052"
+                    }
+                ],
+                "2021-11-30": [
+                    {
+                        "model": "s1700",
+                        "version": "v200r011sph033"
+                    },
+                    {
+                        "model": "s1700s2700",
+                        "version": "s1700&amp;s2700 v200r011sph033"
+                    },
+                    {
+                        "model": "s2700",
+                        "version": "v200r011sph033"
+                    }
+                ],
+                "2021-12-22": [
+                    {
+                        "model": "s12700",
+                        "version": "v200r021c01spc200"
+                    }
+                ],
+                "2021-12-30": [
+                    {
+                        "model": "s2700",
+                        "version": "v100r006sph051"
+                    }
+                ],
+                "2021-12-31": [
+                    {
+                        "model": "s12700",
+                        "version": "v200r021sph006"
+                    },
+                    {
+                        "model": "s12700",
+                        "version": "v200r020sph018"
+                    },
+                    {
+                        "model": "s1700",
+                        "version": "v200r020sph018"
+                    },
+                    {
+                        "model": "s2700",
+                        "version": "v200r020sph018"
+                    }
+                ],
+                "2022-01-04": [
+                    {
+                        "model": "s1700",
+                        "version": "v200r021sph006"
+                    },
+                    {
+                        "model": "s2700",
+                        "version": "v200r021sph006"
+                    }
+                ],
+                "2022-01-12": [
+                    {
+                        "model": "s12700",
+                        "version": "v200r019sph057"
+                    }
+                ],
+                "2022-01-17": [
+                    {
+                        "model": "s2700",
+                        "version": "v200r019sph057"
+                    }
+                ],
+                "2022-04-06": [
+                    {
+                        "model": "s1700",
+                        "version": "v200r019sph058"
+                    }
+                ],
+                "2022-04-30": [
+                    {
+                        "model": "s12700",
+                        "version": "v200r019sph058"
+                    }
+                ],
+                "2022-06-06": [
+                    {
+                        "model": "s12700",
+                        "version": "v200r021sph012"
+                    }
+                ],
+                "2022-08-30": [
+                    {
+                        "model": "s12700",
+                        "version": "v200r019sph380"
+                    },
+                    {
+                        "model": "s12700",
+                        "version": "v200r021sph180"
+                    },
+                    {
+                        "model": "s12700",
+                        "version": "v200r020sph280"
+                    },
+                    {
+                        "model": "s1700",
+                        "version": "v200r021sph180"
+                    },
+                    {
+                        "model": "s1700",
+                        "version": "v200r019sph380"
+                    },
+                    {
+                        "model": "s1700",
+                        "version": "v200r020sph280"
+                    },
+                    {
+                        "model": "s1700s2700",
+                        "version": "s1700&amp;s2700 v200r020sph280"
+                    },
+                    {
+                        "model": "s2700",
+                        "version": "v200r019sph380"
+                    },
+                    {
+                        "model": "s2700",
+                        "version": "v200r020sph280"
+                    },
+                    {
+                        "model": "s2700",
+                        "version": "v200r021sph180"
+                    }
+                ],
+                "2022-09-30": [
+                    {
+                        "model": "s1700",
+                        "version": "v200r021sph181"
+                    },
+                    {
+                        "model": "s2700",
+                        "version": "v200r021sph181"
+                    }
+                ],
+                "2022-10-26": [
+                    {
+                        "model": "s12700",
+                        "version": "v200r021sph182"
+                    }
+                ],
+                "2022-11-11": [
+                    {
+                        "model": "s12700",
+                        "version": "s12700 v200r022c00spc500"
+                    },
+                    {
+                        "model": "s1700s2700",
+                        "version": "s1700&amp;s2700 v200r022c00spc500"
+                    }
+                ],
+                "2022-11-14": [
+                    {
+                        "model": "s1700",
+                        "version": "s1700 v200r022c00spc500"
+                    },
+                    {
+                        "model": "s2700",
+                        "version": "s2700 v200r022c00spc500"
+                    }
+                ],
+                "2022-11-30": [
+                    {
+                        "model": "s12700",
+                        "version": "s12700 v200r021sph1b0"
+                    },
+                    {
+                        "model": "s1700",
+                        "version": "s1700 v200r021sph1b0"
+                    },
+                    {
+                        "model": "s2700",
+                        "version": "s2700 v200r021sph1b0"
+                    }
+                ],
+                "2022-12-02": [
+                    {
+                        "model": "s12700",
+                        "version": "s12700 v200r019sph3b0"
+                    },
+                    {
+                        "model": "s1700",
+                        "version": "s1700 v200r019sph3b0"
+                    },
+                    {
+                        "model": "s1700s2700",
+                        "version": "s1700&amp;s2700 v200r019sph3b0"
+                    },
+                    {
+                        "model": "s2700",
+                        "version": "s2700 v200r019sph3b0"
+                    }
+                ],
+                "2022-12-30": [
+                    {
+                        "model": "s1700s2700",
+                        "version": "s1700&amp;s2700 v100r006sph052"
+                    },
+                    {
+                        "model": "s2700",
+                        "version": "s2700 v100r006sph052"
+                    }
+                ],
+                "2023-05-30": [
+                    {
+                        "model": "s1700s2700",
+                        "version": "s1700&amp;s2700 v200r022sph150"
+                    }
+                ],
+                "2023-05-31": [
+                    {
+                        "model": "s1700s2700",
+                        "version": "s1700&amp;s2700 v200r021sph250"
+                    }
+                ],
+                "2023-08-30": [
+                    {
+                        "model": "s1700s2700",
+                        "version": "s1700&amp;s2700 v200r022sph180"
+                    }
+                ],
+                "2023-11-30": [
+                    {
+                        "model": "s1700s2700",
+                        "version": "s1700&amp;s2700 v200r022sph1b0"
+                    }
+                ]
+            }
+        }
+    },
+    "27": {
+        "x2221-fl": {
+            "sample": [
+                {
+                    "version": "ipc v500r019c20spc100",
+                    "lmt": "2019-01-03",
+                    "lmt_dict": {
+                        "2018-11-22 04-57-16": [
+                            "/js/common/jquery.js",
+                            "/js/loadLang.js",
+                            "/js/common/commonFunction.js",
+                            "/js/common/common.js",
+                            "/immutable/basic/core.js",
+                            "/immutable/droplist/Droplist.js",
+                            "/immutable/dialog/Dialog.js",
+                            "/js/common/indexLanguage.js",
+                            "/resources/default/images/login/loginbg.png"
+                        ],
+                        "2019-01-03 15-21-30": [
+                            "/data/ConfigData.js"
+                        ]
+                    },
+                    "index": "inner_internet_4@inner_internet4_7303",
+                    "label_flag": "none",
+                    "lmt_type": "Far"
+                }
+            ],
+            "ERT_list": {
+                "2018-11-22": [
+                    {
+                        "model": "x2221-fl",
+                        "version": "v500r019c20spc100"
+                    }
+                ],
+                "2019-03-25": [
+                    {
+                        "model": "x2221-fl",
+                        "version": "v500r019c20spc109"
+                    }
+                ],
+                "2019-09-06": [
+                    {
+                        "model": "x2221-fl",
+                        "version": "v500r019c60spc109"
+                    }
+                ],
+                "2019-10-12": [
+                    {
+                        "model": "x2221-fl",
+                        "version": "v500r019c60spc209"
+                    }
+                ],
+                "2019-12-21": [
+                    {
+                        "model": "x2221-fl",
+                        "version": "v500r019c60spc219"
+                    }
+                ],
+                "2020-09-08": [
+                    {
+                        "model": "x2221-fl",
+                        "version": "v500r019c60spc259"
+                    }
+                ],
+                "2021-03-08": [
+                    {
+                        "model": "x2221-fl",
+                        "version": "v500r019c60spc289"
+                    }
+                ],
+                "2021-03-26": [
+                    {
+                        "model": "x2221-fl",
+                        "version": "8.0.2.spc119"
+                    }
+                ],
+                "2022-02-16": [
+                    {
+                        "model": "x2221-fl",
+                        "version": "v500r019c60spc319"
+                    }
+                ],
+                "2022-04-15": [
+                    {
+                        "model": "x2221-fl",
+                        "version": "8.0.2.spc189"
+                    }
+                ],
+                "2024-04-05": [
+                    {
+                        "model": "x2221-fl",
+                        "version": "x2221-fl 8.0.2.spc259"
+                    }
+                ]
+            }
+        },
+        "x2261-fl": {
+            "sample": [
+                {
+                    "version": "ipc v500r019c20spc100",
+                    "lmt": "2018-12-07",
+                    "lmt_dict": {
+                        "2018-11-22 04-57-16": [
+                            "/js/common/jquery.js",
+                            "/js/loadLang.js",
+                            "/js/common/commonFunction.js",
+                            "/js/common/common.js",
+                            "/immutable/basic/core.js",
+                            "/immutable/droplist/Droplist.js",
+                            "/immutable/dialog/Dialog.js",
+                            "/js/common/indexLanguage.js",
+                            "/resources/default/images/login/loginbg.png"
+                        ],
+                        "2018-12-07 13-36-55": [
+                            "/data/ConfigData.js"
+                        ]
+                    },
+                    "index": "inner_internet_4@inner_internet4_7240",
+                    "label_flag": "none",
+                    "lmt_type": "Far"
+                }
+            ],
+            "ERT_list": {
+                "2018-11-22": [
+                    {
+                        "model": "x2261-fl",
+                        "version": "v500r019c20spc100"
+                    }
+                ],
+                "2019-03-25": [
+                    {
+                        "model": "x2261-fl",
+                        "version": "v500r019c20spc109"
+                    }
+                ],
+                "2019-09-06": [
+                    {
+                        "model": "x2261-fl",
+                        "version": "v500r019c60spc109"
+                    }
+                ],
+                "2019-10-12": [
+                    {
+                        "model": "x2261-fl",
+                        "version": "v500r019c60spc209"
+                    }
+                ],
+                "2019-12-21": [
+                    {
+                        "model": "x2261-fl",
+                        "version": "v500r019c60spc219"
+                    }
+                ],
+                "2020-09-08": [
+                    {
+                        "model": "x2261-fl",
+                        "version": "v500r019c60spc259"
+                    }
+                ],
+                "2021-03-08": [
+                    {
+                        "model": "x2261-fl",
+                        "version": "v500r019c60spc289"
+                    }
+                ],
+                "2021-03-26": [
+                    {
+                        "model": "x2261-fl",
+                        "version": "8.0.2.spc119"
+                    }
+                ],
+                "2022-02-16": [
+                    {
+                        "model": "x2261-fl",
+                        "version": "v500r019c60spc319"
+                    }
+                ],
+                "2022-04-15": [
+                    {
+                        "model": "x2261-fl",
+                        "version": "8.0.2.spc189"
+                    }
+                ]
+            }
+        }
+    }
+}

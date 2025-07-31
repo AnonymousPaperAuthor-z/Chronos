@@ -1,0 +1,1761 @@
+{
+    "-1": {
+        "envy 4520 series": {
+            "sample": [
+                {
+                    "version": "cfp1fn2023br",
+                    "lmt": "2020-06-02",
+                    "lmt_dict": {
+                        "2020-06-02 09-20-56": [
+                            "/framework/Unified.js",
+                            "/framework/Unified.css"
+                        ]
+                    },
+                    "index": "cydar_export_20241224@94"
+                }
+            ],
+            "ERT_list": []
+        },
+        "deskjet 3830 series": {
+            "sample": [
+                {
+                    "version": "sup1fn2223ar",
+                    "lmt": "2022-05-30",
+                    "lmt_dict": {
+                        "2022-05-30 06-30-59": [
+                            "/framework/Unified.js",
+                            "/framework/Unified.css"
+                        ]
+                    },
+                    "index": "cydar_export_20241225@1598"
+                }
+            ],
+            "ERT_list": []
+        },
+        "envy 5540 series": {
+            "sample": [
+                {
+                    "version": "nbp1cn2023ar",
+                    "lmt": "2020-06-04",
+                    "lmt_dict": {
+                        "2020-06-04 08-29-51": [
+                            "/framework/Unified.js",
+                            "/framework/Unified.css"
+                        ]
+                    },
+                    "index": "cydar_export_20250104@3360"
+                }
+            ],
+            "ERT_list": []
+        }
+    },
+    "34": {
+        "officejet pro 8710": {
+            "sample": [
+                {
+                    "version": "non-hp nc 71631",
+                    "lmt": "2017-04-19",
+                    "lmt_dict": {
+                        "2017-04-19 09-40-48": [
+                            "/framework/Unified.js",
+                            "/framework/Unified.css"
+                        ]
+                    },
+                    "index": "cydar_export_20241224@566",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2020-07-20": [
+                    {
+                        "model": "hp-officejet-pro-x451-printer",
+                        "version": "2022a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-x476-multifunction-printer",
+                        "version": "2022a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-x551-printer",
+                        "version": "2022a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-x576-multifunction-printer",
+                        "version": "2022a"
+                    }
+                ]
+            }
+        },
+        "officejet pro 8210": {
+            "sample": [
+                {
+                    "version": "non-hp-nc.1803a31.00",
+                    "lmt": "2018-01-17",
+                    "lmt_dict": {
+                        "2018-01-17 12-40-06": [
+                            "/framework/Unified.js",
+                            "/framework/Unified.css"
+                        ]
+                    },
+                    "index": "cydar_export_20241224@604",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2020-07-20": [
+                    {
+                        "model": "hp-officejet-pro-x451-printer",
+                        "version": "2022a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-x476-multifunction-printer",
+                        "version": "2022a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-x551-printer",
+                        "version": "2022a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-x576-multifunction-printer",
+                        "version": "2022a"
+                    }
+                ]
+            }
+        }
+    },
+    "98": {
+        "deskjet 4100 series": {
+            "sample": [
+                {
+                    "version": "top1fn2424dr",
+                    "lmt": "2024-06-12",
+                    "lmt_dict": {
+                        "2024-06-12 09-57-38": [
+                            "/framework/Unified.js",
+                            "/framework/Unified.css"
+                        ]
+                    },
+                    "index": "cydar_export_20241224@591",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2017-03-13": [
+                    {
+                        "model": "hp-designjet-4000-printer",
+                        "version": "14.01.01.5"
+                    },
+                    {
+                        "model": "hp-designjet-4000-printer",
+                        "version": "14.1.1.1"
+                    },
+                    {
+                        "model": "hp-designjet-4500-printer",
+                        "version": "14.01.01.5"
+                    },
+                    {
+                        "model": "hp-designjet-4500-printer",
+                        "version": "14.1.1.1"
+                    },
+                    {
+                        "model": "hp-designjet-4500mfp",
+                        "version": "14.01.01.5"
+                    },
+                    {
+                        "model": "hp-designjet-4500mfp",
+                        "version": "14.1.1.1"
+                    }
+                ]
+            }
+        },
+        "deskjet 4530 series": {
+            "sample": [
+                {
+                    "version": "ccp1fn2023br",
+                    "lmt": "2020-06-03",
+                    "lmt_dict": {
+                        "2020-06-03 07-52-31": [
+                            "/framework/Unified.js",
+                            "/framework/Unified.css"
+                        ]
+                    },
+                    "index": "cydar_export_20241226@1391",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2017-03-13": [
+                    {
+                        "model": "hp-designjet-4000-printer",
+                        "version": "14.01.01.5"
+                    },
+                    {
+                        "model": "hp-designjet-4000-printer",
+                        "version": "14.1.1.1"
+                    },
+                    {
+                        "model": "hp-designjet-4500-printer",
+                        "version": "14.01.01.5"
+                    },
+                    {
+                        "model": "hp-designjet-4500-printer",
+                        "version": "14.1.1.1"
+                    },
+                    {
+                        "model": "hp-designjet-4500mfp",
+                        "version": "14.01.01.5"
+                    },
+                    {
+                        "model": "hp-designjet-4500mfp",
+                        "version": "14.1.1.1"
+                    }
+                ]
+            }
+        }
+    },
+    "38": {
+        "officejet pro 8710 d9l18a": {
+            "sample": [
+                {
+                    "version": "non-hp nc 71613",
+                    "lmt": "2017-04-19",
+                    "lmt_dict": {
+                        "2017-04-19 09-40-48": [
+                            "/framework/Unified.js",
+                            "/framework/Unified.css"
+                        ]
+                    },
+                    "index": "cydar_export_20241223@1121",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2022-03-31": [
+                    {
+                        "model": "hp-officejet-pro-8210-printer",
+                        "version": "001.2211b"
+                    }
+                ]
+            }
+        },
+        "officejet pro 8720": {
+            "sample": [
+                {
+                    "version": "non-hp nc 72010",
+                    "lmt": "2018-01-17",
+                    "lmt_dict": {
+                        "2018-01-17 01-25-55": [
+                            "/framework/Unified.js",
+                            "/framework/Unified.css"
+                        ]
+                    },
+                    "index": "cydar_export_20241225@4360",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2022-03-31": [
+                    {
+                        "model": "hp-officejet-pro-8210-printer",
+                        "version": "001.2211b"
+                    }
+                ]
+            }
+        }
+    },
+    "39": {
+        "officejet pro 8730": {
+            "sample": [
+                {
+                    "version": "non-hp-nc.1803a11.00",
+                    "lmt": "2018-01-17",
+                    "lmt_dict": {
+                        "2018-01-17 01-13-02": [
+                            "/framework/Unified.js",
+                            "/framework/Unified.css"
+                        ]
+                    },
+                    "index": "cydar_export_20241225@3080",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2021-02-22": [
+                    {
+                        "model": "hp-officejet-pro-8730-mono-printer",
+                        "version": "2106a"
+                    }
+                ]
+            }
+        }
+    },
+    "106": {
+        "designjet t730": {
+            "sample": [
+                {
+                    "version": "candelpr2n001.2243a.00",
+                    "lmt": "2022-10-19",
+                    "lmt_dict": {
+                        "2022-10-19 17-17-27": [
+                            "/framework/Unified.js",
+                            "/framework/Unified.css"
+                        ]
+                    },
+                    "index": "cydar_export_20241224@176",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2021-06-27": [
+                    {
+                        "model": "hp-designjet-studio-printer",
+                        "version": "2123a"
+                    },
+                    {
+                        "model": "hp-designjet-t210-printer",
+                        "version": "2123a"
+                    },
+                    {
+                        "model": "hp-designjet-t230-printer",
+                        "version": "2123a"
+                    },
+                    {
+                        "model": "hp-designjet-t250-printer",
+                        "version": "2123a"
+                    },
+                    {
+                        "model": "hp-designjet-t630-printer",
+                        "version": "2123a"
+                    },
+                    {
+                        "model": "hp-designjet-t650-printer",
+                        "version": "2123a"
+                    }
+                ],
+                "2023-01-23": [
+                    {
+                        "model": "hp-designjet-studio-printer",
+                        "version": "2247a"
+                    },
+                    {
+                        "model": "hp-designjet-t210-printer",
+                        "version": "2247a"
+                    },
+                    {
+                        "model": "hp-designjet-t230-printer",
+                        "version": "2247a"
+                    },
+                    {
+                        "model": "hp-designjet-t250-printer",
+                        "version": "2247a"
+                    },
+                    {
+                        "model": "hp-designjet-t630-printer",
+                        "version": "2247a"
+                    },
+                    {
+                        "model": "hp-designjet-t650-printer",
+                        "version": "2247a"
+                    }
+                ],
+                "2023-05-17": [
+                    {
+                        "model": "hp-designjet-studio-printer",
+                        "version": "spark_2306b"
+                    },
+                    {
+                        "model": "hp-designjet-t210-printer",
+                        "version": "spark_2306b"
+                    },
+                    {
+                        "model": "hp-designjet-t230-printer",
+                        "version": "spark_2306b"
+                    },
+                    {
+                        "model": "hp-designjet-t250-printer",
+                        "version": "spark_2306b"
+                    },
+                    {
+                        "model": "hp-designjet-t630-printer",
+                        "version": "spark_2306b"
+                    },
+                    {
+                        "model": "hp-designjet-t650-printer",
+                        "version": "spark_2306b"
+                    }
+                ]
+            }
+        }
+    },
+    "48": {
+        "officejet 4650 series": {
+            "sample": [
+                {
+                    "version": "cup1fn2022ar",
+                    "lmt": "2020-05-28",
+                    "lmt_dict": {
+                        "2020-05-28 13-14-52": [
+                            "/framework/Unified.js",
+                            "/framework/Unified.css"
+                        ]
+                    },
+                    "index": "cydar_export_20250101@656",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2020-06-29": [
+                    {
+                        "model": "hp-envy-7640-e-all-in-one-printer",
+                        "version": "2022a"
+                    },
+                    {
+                        "model": "hp-officejet-4650-all-in-one-printer",
+                        "version": "2022a"
+                    },
+                    {
+                        "model": "hp-officejet-5740-e-all-in-one-printer",
+                        "version": "2022a"
+                    },
+                    {
+                        "model": "hp-officejet-7510-wide-format-all-in-one-printer",
+                        "version": "2022a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-8630-e-all-in-one-printer",
+                        "version": "2022a"
+                    }
+                ]
+            }
+        }
+    },
+    "18": {
+        "officejet 3830 series": {
+            "sample": [
+                {
+                    "version": "spp1fn2223ar",
+                    "lmt": "2022-05-30",
+                    "lmt_dict": {
+                        "2022-05-30 06-30-32": [
+                            "/framework/Unified.js"
+                        ]
+                    },
+                    "index": "cydar_export_20241226@229",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2020-06-01": [
+                    {
+                        "model": "hp-deskjet-3630-all-in-one-printer",
+                        "version": "2020c"
+                    },
+                    {
+                        "model": "hp-deskjet-ink-advantage-3630-all-in-one-printer",
+                        "version": "2020c"
+                    },
+                    {
+                        "model": "hp-deskjet-ink-advantage-3830-all-in-one-printer",
+                        "version": "2021a"
+                    },
+                    {
+                        "model": "hp-deskjet-ink-advantage-ultra-4720-all-in-one-printer",
+                        "version": "2020b"
+                    },
+                    {
+                        "model": "hp-officejet-3830-all-in-one-printer",
+                        "version": "2021a"
+                    }
+                ]
+            }
+        }
+    },
+    "115": {
+        "pagewide pro 577 mfp": {
+            "sample": [
+                {
+                    "version": "mahdwopp1n001.2436c.00",
+                    "lmt": "2024-09-06",
+                    "lmt_dict": {
+                        "2024-09-06 19-18-49": [
+                            "/framework/Unified.js",
+                            "/framework/Unified.css"
+                        ]
+                    },
+                    "index": "cydar_export_20241224@533",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2022-03-15": [
+                    {
+                        "model": "hp-pagewide-352-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-377-multifunction-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-managed-p55250dw-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-managed-p57750dw-multifunction-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-452dn-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-452dw-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-477dn-multifunction-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-477dw-multifunction-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-552dw-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-577dw-multifunction-printer",
+                        "version": "2208a"
+                    }
+                ],
+                "2022-08-02": [
+                    {
+                        "model": "hp-pagewide-352-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-377-multifunction-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-managed-p55250dw-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-managed-p57750dw-multifunction-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-452dn-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-452dw-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-477dn-multifunction-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-477dw-multifunction-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-552dw-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-577dw-multifunction-printer",
+                        "version": "2228b"
+                    }
+                ],
+                "2023-05-09": [
+                    {
+                        "model": "hp-pagewide-352-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-377-multifunction-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-managed-p55250dw-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-managed-p57750dw-multifunction-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-452dn-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-452dw-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-477dn-multifunction-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-477dw-multifunction-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-552dw-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-577dw-multifunction-printer",
+                        "version": "2313a"
+                    }
+                ]
+            }
+        },
+        "pagewide pro 477dn": {
+            "sample": [
+                {
+                    "version": "non-hp-nc.1921e35.00",
+                    "lmt": "2019-05-23",
+                    "lmt_dict": {
+                        "2019-05-23 19-08-47": [
+                            "/framework/Unified.js",
+                            "/framework/Unified.css"
+                        ]
+                    },
+                    "index": "cydar_export_20241224@802",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2022-03-15": [
+                    {
+                        "model": "hp-pagewide-352-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-377-multifunction-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-managed-p55250dw-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-managed-p57750dw-multifunction-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-452dn-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-452dw-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-477dn-multifunction-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-477dw-multifunction-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-552dw-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-577dw-multifunction-printer",
+                        "version": "2208a"
+                    }
+                ],
+                "2022-08-02": [
+                    {
+                        "model": "hp-pagewide-352-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-377-multifunction-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-managed-p55250dw-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-managed-p57750dw-multifunction-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-452dn-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-452dw-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-477dn-multifunction-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-477dw-multifunction-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-552dw-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-577dw-multifunction-printer",
+                        "version": "2228b"
+                    }
+                ],
+                "2023-05-09": [
+                    {
+                        "model": "hp-pagewide-352-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-377-multifunction-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-managed-p55250dw-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-managed-p57750dw-multifunction-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-452dn-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-452dw-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-477dn-multifunction-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-477dw-multifunction-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-552dw-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-577dw-multifunction-printer",
+                        "version": "2313a"
+                    }
+                ]
+            }
+        },
+        "pagewide pro 477dw": {
+            "sample": [
+                {
+                    "version": "mavedwpp1n001.2313a.00",
+                    "lmt": "2023-03-31",
+                    "lmt_dict": {
+                        "2023-03-31 22-18-04": [
+                            "/framework/Unified.js",
+                            "/framework/Unified.css"
+                        ]
+                    },
+                    "index": "cydar_export_20241226@1243",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2022-03-15": [
+                    {
+                        "model": "hp-pagewide-352-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-377-multifunction-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-managed-p55250dw-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-managed-p57750dw-multifunction-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-452dn-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-452dw-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-477dn-multifunction-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-477dw-multifunction-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-552dw-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-577dw-multifunction-printer",
+                        "version": "2208a"
+                    }
+                ],
+                "2022-08-02": [
+                    {
+                        "model": "hp-pagewide-352-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-377-multifunction-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-managed-p55250dw-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-managed-p57750dw-multifunction-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-452dn-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-452dw-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-477dn-multifunction-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-477dw-multifunction-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-552dw-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-577dw-multifunction-printer",
+                        "version": "2228b"
+                    }
+                ],
+                "2023-05-09": [
+                    {
+                        "model": "hp-pagewide-352-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-377-multifunction-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-managed-p55250dw-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-managed-p57750dw-multifunction-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-452dn-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-452dw-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-477dn-multifunction-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-477dw-multifunction-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-552dw-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-577dw-multifunction-printer",
+                        "version": "2313a"
+                    }
+                ]
+            }
+        },
+        "pagewide pro 452dw": {
+            "sample": [
+                {
+                    "version": "non-hp-nc.1921e35.00",
+                    "lmt": "2019-05-23",
+                    "lmt_dict": {
+                        "2019-05-23 18-55-31": [
+                            "/framework/Unified.js",
+                            "/framework/Unified.css"
+                        ]
+                    },
+                    "index": "cydar_export_20241231@892",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2022-03-15": [
+                    {
+                        "model": "hp-pagewide-352-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-377-multifunction-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-managed-p55250dw-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-managed-p57750dw-multifunction-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-452dn-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-452dw-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-477dn-multifunction-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-477dw-multifunction-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-552dw-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-577dw-multifunction-printer",
+                        "version": "2208a"
+                    }
+                ],
+                "2022-08-02": [
+                    {
+                        "model": "hp-pagewide-352-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-377-multifunction-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-managed-p55250dw-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-managed-p57750dw-multifunction-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-452dn-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-452dw-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-477dn-multifunction-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-477dw-multifunction-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-552dw-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-577dw-multifunction-printer",
+                        "version": "2228b"
+                    }
+                ],
+                "2023-05-09": [
+                    {
+                        "model": "hp-pagewide-352-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-377-multifunction-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-managed-p55250dw-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-managed-p57750dw-multifunction-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-452dn-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-452dw-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-477dn-multifunction-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-477dw-multifunction-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-552dw-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-577dw-multifunction-printer",
+                        "version": "2313a"
+                    }
+                ]
+            }
+        },
+        "pagewide 377dw mfp": {
+            "sample": [
+                {
+                    "version": "mavedwpp1n001.2436c.00",
+                    "lmt": "2024-09-06",
+                    "lmt_dict": {
+                        "2024-09-06 19-13-51": [
+                            "/framework/Unified.js",
+                            "/framework/Unified.css"
+                        ]
+                    },
+                    "index": "cydar_export_20250104@1241",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2022-03-15": [
+                    {
+                        "model": "hp-pagewide-352-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-377-multifunction-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-managed-p55250dw-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-managed-p57750dw-multifunction-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-452dn-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-452dw-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-477dn-multifunction-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-477dw-multifunction-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-552dw-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-577dw-multifunction-printer",
+                        "version": "2208a"
+                    }
+                ],
+                "2022-08-02": [
+                    {
+                        "model": "hp-pagewide-352-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-377-multifunction-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-managed-p55250dw-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-managed-p57750dw-multifunction-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-452dn-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-452dw-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-477dn-multifunction-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-477dw-multifunction-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-552dw-printer",
+                        "version": "2228b"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-577dw-multifunction-printer",
+                        "version": "2228b"
+                    }
+                ],
+                "2023-05-09": [
+                    {
+                        "model": "hp-pagewide-352-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-377-multifunction-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-managed-p55250dw-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-managed-p57750dw-multifunction-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-452dn-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-452dw-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-477dn-multifunction-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-477dw-multifunction-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-552dw-printer",
+                        "version": "2313a"
+                    },
+                    {
+                        "model": "hp-pagewide-pro-577dw-multifunction-printer",
+                        "version": "2313a"
+                    }
+                ]
+            }
+        }
+    },
+    "51": {
+        "officejet 6960": {
+            "sample": [
+                {
+                    "version": "mcp2cn2436cr",
+                    "lmt": "2024-09-06",
+                    "lmt_dict": {
+                        "2024-09-06 14-24-54": [
+                            "/framework/Unified.js",
+                            "/framework/Unified.css"
+                        ]
+                    },
+                    "index": "cydar_export_20241225@180",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2022-02-14": [
+                    {
+                        "model": "hp-officejet-6950-all-in-one-printer",
+                        "version": "2150b"
+                    },
+                    {
+                        "model": "hp-officejet-6960-all-in-one-printer",
+                        "version": "2151a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-6960-all-in-one-printer",
+                        "version": "2151a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-6970-all-in-one-printer",
+                        "version": "2151a"
+                    }
+                ],
+                "2022-07-15": [
+                    {
+                        "model": "hp-officejet-6950-all-in-one-printer",
+                        "version": "001.2224a"
+                    },
+                    {
+                        "model": "hp-officejet-6960-all-in-one-printer",
+                        "version": "001.2225a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-6960-all-in-one-printer",
+                        "version": "001.2225a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-6970-all-in-one-printer",
+                        "version": "001.2225a"
+                    }
+                ],
+                "2022-12-12": [
+                    {
+                        "model": "hp-officejet-6950-all-in-one-printer",
+                        "version": "001.2246a"
+                    },
+                    {
+                        "model": "hp-officejet-6960-all-in-one-printer",
+                        "version": "001.2247a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-6960-all-in-one-printer",
+                        "version": "001.2247a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-6970-all-in-one-printer",
+                        "version": "001.2247a"
+                    }
+                ],
+                "2023-04-17": [
+                    {
+                        "model": "hp-officejet-6950-all-in-one-printer",
+                        "version": "001.2308a"
+                    },
+                    {
+                        "model": "hp-officejet-6960-all-in-one-printer",
+                        "version": "001.2308a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-6960-all-in-one-printer",
+                        "version": "001.2308a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-6970-all-in-one-printer",
+                        "version": "001.2308a"
+                    }
+                ]
+            }
+        },
+        "officejet pro 6960": {
+            "sample": [
+                {
+                    "version": "mcp2cn2436cr",
+                    "lmt": "2024-09-06",
+                    "lmt_dict": {
+                        "2024-09-06 14-24-54": [
+                            "/framework/Unified.js",
+                            "/framework/Unified.css"
+                        ]
+                    },
+                    "index": "cydar_export_20241227@1212",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2022-02-14": [
+                    {
+                        "model": "hp-officejet-6950-all-in-one-printer",
+                        "version": "2150b"
+                    },
+                    {
+                        "model": "hp-officejet-6960-all-in-one-printer",
+                        "version": "2151a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-6960-all-in-one-printer",
+                        "version": "2151a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-6970-all-in-one-printer",
+                        "version": "2151a"
+                    }
+                ],
+                "2022-07-15": [
+                    {
+                        "model": "hp-officejet-6950-all-in-one-printer",
+                        "version": "001.2224a"
+                    },
+                    {
+                        "model": "hp-officejet-6960-all-in-one-printer",
+                        "version": "001.2225a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-6960-all-in-one-printer",
+                        "version": "001.2225a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-6970-all-in-one-printer",
+                        "version": "001.2225a"
+                    }
+                ],
+                "2022-12-12": [
+                    {
+                        "model": "hp-officejet-6950-all-in-one-printer",
+                        "version": "001.2246a"
+                    },
+                    {
+                        "model": "hp-officejet-6960-all-in-one-printer",
+                        "version": "001.2247a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-6960-all-in-one-printer",
+                        "version": "001.2247a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-6970-all-in-one-printer",
+                        "version": "001.2247a"
+                    }
+                ],
+                "2023-04-17": [
+                    {
+                        "model": "hp-officejet-6950-all-in-one-printer",
+                        "version": "001.2308a"
+                    },
+                    {
+                        "model": "hp-officejet-6960-all-in-one-printer",
+                        "version": "001.2308a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-6960-all-in-one-printer",
+                        "version": "001.2308a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-6970-all-in-one-printer",
+                        "version": "001.2308a"
+                    }
+                ]
+            }
+        },
+        "officejet pro 6970": {
+            "sample": [
+                {
+                    "version": "mcp2cn2436cr",
+                    "lmt": "2024-09-06",
+                    "lmt_dict": {
+                        "2024-09-06 14-24-54": [
+                            "/framework/Unified.js",
+                            "/framework/Unified.css"
+                        ]
+                    },
+                    "index": "cydar_export_20241230@901",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2022-02-14": [
+                    {
+                        "model": "hp-officejet-6950-all-in-one-printer",
+                        "version": "2150b"
+                    },
+                    {
+                        "model": "hp-officejet-6960-all-in-one-printer",
+                        "version": "2151a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-6960-all-in-one-printer",
+                        "version": "2151a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-6970-all-in-one-printer",
+                        "version": "2151a"
+                    }
+                ],
+                "2022-07-15": [
+                    {
+                        "model": "hp-officejet-6950-all-in-one-printer",
+                        "version": "001.2224a"
+                    },
+                    {
+                        "model": "hp-officejet-6960-all-in-one-printer",
+                        "version": "001.2225a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-6960-all-in-one-printer",
+                        "version": "001.2225a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-6970-all-in-one-printer",
+                        "version": "001.2225a"
+                    }
+                ],
+                "2022-12-12": [
+                    {
+                        "model": "hp-officejet-6950-all-in-one-printer",
+                        "version": "001.2246a"
+                    },
+                    {
+                        "model": "hp-officejet-6960-all-in-one-printer",
+                        "version": "001.2247a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-6960-all-in-one-printer",
+                        "version": "001.2247a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-6970-all-in-one-printer",
+                        "version": "001.2247a"
+                    }
+                ],
+                "2023-04-17": [
+                    {
+                        "model": "hp-officejet-6950-all-in-one-printer",
+                        "version": "001.2308a"
+                    },
+                    {
+                        "model": "hp-officejet-6960-all-in-one-printer",
+                        "version": "001.2308a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-6960-all-in-one-printer",
+                        "version": "001.2308a"
+                    },
+                    {
+                        "model": "hp-officejet-pro-6970-all-in-one-printer",
+                        "version": "001.2308a"
+                    }
+                ]
+            }
+        }
+    },
+    "26": {
+        "deskjet 3630": {
+            "sample": [
+                {
+                    "version": "swp1fn2223ar",
+                    "lmt": "2022-05-30",
+                    "lmt_dict": {
+                        "2022-05-30 10-00-09": [
+                            "/framework/Unified.js",
+                            "/framework/Unified.css"
+                        ]
+                    },
+                    "index": "cydar_export_20241223@1284",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2022-03-03": [
+                    {
+                        "model": "hp-deskjet-1200",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-deskjet-2300-all-in-one-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-deskjet-ink-advantage-1200",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-deskjet-ink-advantage-2300-all-in-one-printer",
+                        "version": "2208a"
+                    }
+                ]
+            }
+        },
+        "deskjet 2700 series": {
+            "sample": [
+                {
+                    "version": "tcp1fn2424dr",
+                    "lmt": "2024-06-12",
+                    "lmt_dict": {
+                        "2024-06-12 09-51-15": [
+                            "/framework/Unified.js",
+                            "/framework/Unified.css"
+                        ]
+                    },
+                    "index": "cydar_export_20241224@290",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2022-03-03": [
+                    {
+                        "model": "hp-deskjet-1200",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-deskjet-2300-all-in-one-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-deskjet-ink-advantage-1200",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-deskjet-ink-advantage-2300-all-in-one-printer",
+                        "version": "2208a"
+                    }
+                ]
+            }
+        },
+        "deskjet 2800 series": {
+            "sample": [
+                {
+                    "version": "tbp1cn2446ar",
+                    "lmt": "2024-11-13",
+                    "lmt_dict": {
+                        "2024-11-13 19-16-14": [
+                            "/framework/Unified.js",
+                            "/framework/Unified.css"
+                        ]
+                    },
+                    "index": "cydar_export_20241224@353",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2022-03-03": [
+                    {
+                        "model": "hp-deskjet-1200",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-deskjet-2300-all-in-one-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-deskjet-ink-advantage-1200",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-deskjet-ink-advantage-2300-all-in-one-printer",
+                        "version": "2208a"
+                    }
+                ]
+            }
+        },
+        "deskjet 3700": {
+            "sample": [
+                {
+                    "version": "lyp2fn2218ar",
+                    "lmt": "2022-04-28",
+                    "lmt_dict": {
+                        "2022-04-28 12-05-20": [
+                            "/framework/Unified.js",
+                            "/framework/Unified.css"
+                        ]
+                    },
+                    "index": "cydar_export_20241225@276",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2022-03-03": [
+                    {
+                        "model": "hp-deskjet-1200",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-deskjet-2300-all-in-one-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-deskjet-ink-advantage-1200",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-deskjet-ink-advantage-2300-all-in-one-printer",
+                        "version": "2208a"
+                    }
+                ]
+            }
+        },
+        "deskjet 2600": {
+            "sample": [
+                {
+                    "version": "tjp1fn2237ar",
+                    "lmt": "2022-09-05",
+                    "lmt_dict": {
+                        "2022-09-05 09-48-04": [
+                            "/framework/Unified.js",
+                            "/framework/Unified.css"
+                        ]
+                    },
+                    "index": "cydar_export_20241228@625",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2022-03-03": [
+                    {
+                        "model": "hp-deskjet-1200",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-deskjet-2300-all-in-one-printer",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-deskjet-ink-advantage-1200",
+                        "version": "2208a"
+                    },
+                    {
+                        "model": "hp-deskjet-ink-advantage-2300-all-in-one-printer",
+                        "version": "2208a"
+                    }
+                ]
+            }
+        }
+    },
+    "60": {
+        "smart tank 5100 series": {
+            "sample": [
+                {
+                    "version": "lwp1cn2446ar",
+                    "lmt": "2024-11-13",
+                    "lmt_dict": {
+                        "2024-11-13 20-10-15": [
+                            "/framework/Unified.js",
+                            "/framework/Unified.css"
+                        ]
+                    },
+                    "index": "cydar_export_20241230@1182",
+                    "label_flag": "none",
+                    "lmt_type": "Near"
+                }
+            ],
+            "ERT_list": {
+                "2022-02-25": [
+                    {
+                        "model": "hp-smart-tank-6000",
+                        "version": "001.2144d"
+                    },
+                    {
+                        "model": "hp-smart-tank-670",
+                        "version": "001.2144d"
+                    },
+                    {
+                        "model": "hp-smart-tank-7000",
+                        "version": "001.2144d"
+                    },
+                    {
+                        "model": "hp-smart-tank-720",
+                        "version": "001.2144d"
+                    },
+                    {
+                        "model": "hp-smart-tank-7300",
+                        "version": "001.2144d"
+                    },
+                    {
+                        "model": "hp-smart-tank-750",
+                        "version": "001.2144d"
+                    },
+                    {
+                        "model": "hp-smart-tank-7600",
+                        "version": "001.2144e"
+                    },
+                    {
+                        "model": "hp-smart-tank-790",
+                        "version": "001.2144e"
+                    }
+                ],
+                "2022-04-27": [
+                    {
+                        "model": "hp-smart-tank-6000",
+                        "version": "001.2214d"
+                    },
+                    {
+                        "model": "hp-smart-tank-670",
+                        "version": "001.2214d"
+                    },
+                    {
+                        "model": "hp-smart-tank-7000",
+                        "version": "001.2215a"
+                    },
+                    {
+                        "model": "hp-smart-tank-720",
+                        "version": "001.2215a"
+                    },
+                    {
+                        "model": "hp-smart-tank-7300",
+                        "version": "001.2214d"
+                    },
+                    {
+                        "model": "hp-smart-tank-750",
+                        "version": "001.2214d"
+                    },
+                    {
+                        "model": "hp-smart-tank-7600",
+                        "version": "001.2215a"
+                    },
+                    {
+                        "model": "hp-smart-tank-790",
+                        "version": "001.2215a"
+                    }
+                ]
+            }
+        }
+    }
+}
