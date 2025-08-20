@@ -3,6 +3,11 @@
 ## Introduction:
 This project is an online detection-based implicit information firmware version identification system, which includes a detection module, a crawling module, a data analysis module, and a fingerprint generation module.
 
+## Spider_module
+This module implements an automated crawler dedicated to retrieving device model information, version details, and release dates from mainstream vendors, with regular updates to ensure real-time data accuracy.
+
+We have currently implemented automated crawling of publicly accessible information for 15 manufacturers. Multiple vendors require multi-source crawling across different websites, Chinese/English official portals, and vulnerability databases. This effort aims to build a comprehensive, structured ERT (Extended Response Time) information repository, with continuous updates ongoing.
+
 ## Data_analysis_module
 This module is mainly used for data analysis and preprocessing, such as:
 1. Detection data processing and reconstruction
